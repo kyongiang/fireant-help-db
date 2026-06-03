@@ -1,0 +1,17 @@
+{
+  "cac-ham-lay-du-lieu-intraday": {
+    "title": "Các hàm lấy dữ liệu thời gian thực"
+  },
+  "cac-ham-lay-du-lieu-giao-dich-qua-khu": {
+    "title": "CÁC HÀM LẤY DỮ LIỆU GIAO DỊCH QUÁ KHỨ"
+  },
+  "cac-ham-lay-thong-tin-doanh-nghiep": {
+    "title": "CÁC HÀM LẤY THÔNG TIN DOANH NGHIỆP"
+  },
+  "cac-ham-lay-thong-tin-tai-chinh": {
+    "title": "CÁC HÀM LẤY THÔNG TIN TÀI CHÍNH"
+  },
+  "cac-ham-khac": {
+    "title": "📌CÁC HÀM KHÁC"
+  }
+}

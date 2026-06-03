@@ -1,0 +1,110 @@
+---
+title: "CÁC HÀM LẤY THÔNG TIN TÀI CHÍNH"
+source: "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh"
+---
+
+# CÁC HÀM LẤY THÔNG TIN TÀI CHÍNH
+
+- [Lớp hàm FA.BalanceSheet](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet.md): Các hàm lấy thông tin từ bảng cân đối kế toán
+- [FA.BalanceSheet.Cash](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.cash.md): Hàm lấy về tiền mặt (quý gần nhất) trên bảng cân đối kế toán
+- [FA.BalanceSheet.CurrentAssets](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.currentassets.md): Hàm lấy về tổng tài sản ngắn hạn (quý gần nhất) trên bảng cân đối kế toán
+- [FA.BalanceSheet.FixedAssets](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.fixedassets.md): Lấy Tài sản cố định (quý gần nhất) trên bảng cân đối kế toán
+- [FA.BalanceSheet.LFY](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.lfy.md): Lấy năm gần nhất có báo cáo năm
+- [FA.BalanceSheet.LongTermLiabilities](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.longtermliabilities.md): Lấy Tổng nợ dài hạn (quý gần nhất) trên bảng cân đối kế toán
+- [FA.BalanceSheet.Quarter](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.quarter.md): Lấy quý gần nhất có báo cáo quý
+- [FA.BalanceSheet.Reports](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.reports.md): Hiển thị bảng cân đối kế toán của doanh nghiệp
+- [FA.BalanceSheet.ShortTermLiabilities](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.shorttermliabilities.md): Lấy Tổng nợ ngắn hạn (quý gần nhất) trên bảng cân đối kế toán
+- [FA.BalanceSheet.StockHolderEquity](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.stockholderequity.md): Lấy Vốn chủ sở hữu (quý gần nhất) trên bảng cân đối kế toán
+- [FA.BalanceSheet.TotalAssets](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.totalassets.md): Lấy Tổng tài sản (quý gần nhất) trên bảng cân đối kế toán
+- [FA.BalanceSheet.TotalInventories](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.totalinventories.md): Lấy Tổng hàng tồn kho (quý gần nhất) trên bảng cân đối kế toán
+- [FA.BalanceSheet.TotalLiabilities](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.totalliabilities.md): Lấy Tổng nợ (quý gần nhất) trên bảng cân đối kế toán
+- [FA.BalanceSheet.Value](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.value.md): Lấy giá trị một chỉ tiêu trong bảng cân đối kế toán
+- [FA.BalanceSheet.Year](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.year.md): Lấy năm của quý gần nhất có báo cáo quý
+- [Lớp hàm FA.IncomeStatement](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement.md): Các hàm lấy thông tin từ Báo cáo kêt quả kinh doanh
+- [FA.IncomeStatement.GrossProfit](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.grossprofit.md): Lấy lợi nhuận gộp của mã chứng khoán
+- [FA.IncomeStatement.LFY](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.lfy.md): Lấy năm gần nhất có báo cáo năm
+- [FA.IncomeStatement.NetSales](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.netsales-1.md): Lấy Doanh thu thuần (4 quý gần nhất) trên báo cáo kết quả sản xuất kinh doanh
+- [FA.IncomeStatement.OtherProfit](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.otherprofit-1.md): Lấy Lợi nhuận khác (4 quý gần nhất) trên báo cáo kết quả sản xuất kinh doanh
+- [FA.IncomeStatement.ProfitAfterIncomeTaxes](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.profitafterincometaxes-1.md): Lấy Lợi nhuận sau thuế (4 quý gần nhất) trên báo cáo kết quả sản xuất kinh doanh
+- [FA.IncomeStatement.ProfitBeforeIncomeTaxes](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.profitbeforeincometaxes-1.md): Lấy Lợi nhuận trước thuế (4 quý gần nhất) trên báo cáo kết quả sản xuất kinh doanh
+- [FA.IncomeStatement.ProfitFromFinancialActivities](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.profitfromfinancialactivities-1.md): Lấy Lợi nhuận từ hoạt động tài chính (4 quý gần nhất) trên báo cáo kết quả sản xuất kinh doanh
+- [FA.IncomeStatement.Quarter](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.quarter.md): Lấy quý gần nhất có báo cáo quý
+- [FA.IncomeStatement.Reports](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.reports.md): Hiển thị báo cáo kết quả sản xuất kinh doanh của doanh nghiệp
+- [FA.IncomeStatement.Value](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.value.md): Lấy giá trị một chỉ tiêu trong báo cáo kết quả sản xuất kinh doanh của doanh nghiệp
+- [FA.IncomeStatement.Year](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.year.md): Lấy năm của quý gần nhất có báo cáo quý
+- [Lớp hàm FA.CashFlow](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.cashflow.md): Các hàm lấy thông tin từ báo cáo lưu chuyển tiền tệ
+- [FA.CashFlow.LFY](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.cashflow/fa.cashflow.lfy.md): Lấy năm gần nhất có báo cáo năm
+- [FA.CashFlow.Quarter](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.cashflow/fa.cashflow.quarter.md): Lấy quý gần nhất có báo cáo quý
+- [FA.CashFlow.Reports](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.cashflow/fa.cashflow.reports.md): Hiển thị báo cáo lưu chuyển tiền tệ của doanh nghiệp
+- [FA.CashFlow.Value](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.cashflow/fa.cashflow.value.md): Lấy giá trị một chỉ tiêu trong báo cáo lưu chuyển tiền tệ
+- [FA.CashFlow.Year](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.cashflow/fa.cashflow.year.md): Lấy năm của quý gần nhất có báo cáo quý
+- [Lớp hàm FA.Ratio](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio.md): Các hàm lấy chỉ số tài chính của mã chứng khoán
+- [FA.Ratio.BasicEPSGrowth\_03Yr](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.basicepsgrowth_03yr.md): Lấy Tăng trưởng EPS cơ bản trung bình 3 năm
+- [FA.Ratio.BasicEPSGrowth\_LFY](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.basicepsgrowth_lfy.md): Lấy Tăng trưởng EPS cơ bản năm gần nhất so với năm trước
+- [FA.Ratio.BasicEPSGrowth\_MRQ](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.basicepsgrowth_mrq.md): Lấy Tăng trưởng EPS cơ bản quý gần nhất so với cùng kỳ năm trước
+- [FA.Ratio.BasicEPSGrowth\_MRQ2](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.basicepsgrowth_mrq2.md): Lấy Tăng trưởng EPS cơ bản quý gần nhì so với cùng kỳ năm trước
+- [FA.Ratio.BasicEPSGrowth\_TTM](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.basicepsgrowth_ttm.md): Lấy Tăng trưởng EPS cơ bản 4 quý gần nhất so với 4 quý trước đó
+- [FA.Ratio.BookValuePerShare](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.bookvaluepershare.md): Lấy giá trị sổ sách trên 1 cổ phiếu
+- [FA.Ratio.COF](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.cof.md): Lấy Hệ số chi phí lãi và các chi phí tương tự trên công nợ phải trả lãi (Dành cho Ngân hàng)
+- [FA.Ratio.CostToAssets](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.costtoassets.md): Lấy Hệ số chi phí trên tổng tài sản (Dành cho Ngân hàng)
+- [FA.Ratio.CostToIncome](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.costtoincome.md): Lấy Hệ số chi phí trên tổng thu nhập (Dành cho Ngân hàng)
+- [FA.Ratio.CostToLoans](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.costtoloans.md): Lấy Hệ số chi phí trên tổng nợ (Dành cho Ngân hàng)
+- [FA.Ratio.CurrentAssetsTurnover](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.currentassetsturnover.md): Lấy Hệ số vòng quay tài sản ngắn hạn
+- [FA.Ratio.CurrentRatio](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.currentratio.md): Lấy Hệ số thanh toán hiện hành
+- [FA.Ratio.DilutedEPSGrowth\_03Yr](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.dilutedepsgrowth_03yr.md): Lấy Tăng trưởng EPS pha loãng trung bình 3 năm
+- [FA.Ratio.DilutedEPSGrowth\_LFY](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.dilutedepsgrowth_lfy.md): Lấy Tăng trưởng EPS pha loãng năm gần nhất so với năm trước
+- [FA.Ratio.DilutedEPSGrowth\_MRQ](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.dilutedepsgrowth_mrq.md): Lấy Tăng trưởng EPS pha loãng quý gần nhất so với cùng kỳ năm trước
+- [FA.Ratio.DilutedEPSGrowth\_MRQ2](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.dilutedepsgrowth_mrq2.md): Lấy Tăng trưởng EPS pha loãng quý gần nhì so với cùng kỳ năm trước
+- [FA.Ratio.DilutedEPSGrowth\_TTM](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.dilutedepsgrowth_ttm.md): Lấy Tăng trưởng EPS pha loãng 4 quý gần nhất so với 4 quý trước đó
+- [FA.Ratio.EBITMargin](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.ebitmargin.md): Lấy Hệ số biên EBIT (Lợi nhuận trước thuế và lãi vay so với doanh thu thuần)
+- [FA.Ratio.EPS](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.eps.md): Lấy EPS hiện tại của cổ phiếu
+- [FA.Ratio.EquityToLoans](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.equitytoloans.md): Lấy Hệ số vốn trên tổng nợ (Dành cho Ngân hàng)
+- [FA.Ratio.GrossMargin](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.grossmargin.md): Lấy Hệ số biên lợi nhuận gộp
+- [FA.Ratio.InterestCoverageRatio](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.interestcoverageratio.md): Lấy Hệ số khả năng thanh toán lãi vay
+- [FA.Ratio.InventoryTurnover](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.inventoryturnover.md): Lấy Hệ số vòng quay hàng tồn kho
+- [FA.Ratio.LAR](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.lar.md): Lấy Hệ số cho vay trên tổng tài sản (Dành cho Ngân hàng)
+- [FA.Ratio.LDR](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.ldr.md): Lấy Hệ số cho vay trên tổng tiền gửi (Dành cho Ngân hàng)
+- [FA.Ratio.LoanlossReservesToLoans](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.loanlossreservestoloans.md): Lấy Tỷ lệ trích lập dự phòng cho vay (Dành cho Ngân hàng)
+- [FA.Ratio.LoanlossReservesToNPLs](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.loanlossreservestonpls.md): Lấy Hệ số chi phí dự phòng trên nợ xấu (Dành cho Ngân hàng)
+- [FA.Ratio.LoansToDeposit](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.loanstodeposit.md): Lấy Tỷ lệ dư nợ tín dụng trên vốn huy động (Dành cho Ngân hàng)
+- [FA.Ratio.LongtermDebtOverEquity](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.longtermdebtoverequity.md): Lấy Hệ số nợ dài hạn trên Vốn chủ sở hữu
+- [FA.Ratio.NetProfitMargin](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.netprofitmargin.md): Lấy Hệ số biên lợi nhuận thuần
+- [FA.Ratio.NIM](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.nim.md): Lấy Thu nhập lãi thuần trên tài sản sinh lãi (Dành cho Ngân hàng)
+- [FA.Ratio.NonInterestIncomeToNetInterestIncome](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.noninterestincometonetinterestincome.md): Lấy Hệ số thu nhập ngoài lãi trên thu nhập từ lãi (Dành cho Ngân hàng)
+- [FA.Ratio.NPLs](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.npls.md): Lấy Tổng nợ quá hạn (nợ xấu) (Dành cho Ngân hàng)
+- [FA.Ratio.NPLsToLoans](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.nplstoloans.md): Lấy Tỷ lệ nợ xấu trên tổng dư nợ (Dành cho Ngân hàng)
+- [FA.Ratio.OperatingMargin](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.operatingmargin.md): Lấy Hệ số biên lợi nhuận từ hoạt động kinh doanh (LN từ HĐKD so với DT thuần)
+- [FA.Ratio.PB](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.pb.md): Lấy P/B hiện tại của cổ phiếu
+- [FA.Ratio.PC](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.pc.md): Lấy Hệ số giá trên dòng tiền (Dành cho Ngân hàng)
+- [FA.Ratio.PE](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.pe.md): Lấy P/E hiện tại của cổ phiếu
+- [FA.Ratio.PreprovisionROA](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.preprovisionroa.md): Lấy ROA trước dự phòng (Dành cho Ngân hàng)
+- [FA.Ratio.PreTaxMargin](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.pretaxmargin.md): Lấy Hệ số biên lợi nhuận trước thuế
+- [FA.Ratio.ProfitGrowth\_03Yr](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.profitgrowth_03yr.md): Lấy Tăng trưởng lợi nhuận trung bình 3 năm
+- [FA.Ratio.ProfitGrowth\_LFY](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.profitgrowth_lfy.md): Lấy Tăng trưởng lợi nhuận năm gần nhất so với năm trước
+- [FA.Ratio.ProfitGrowth\_MRQ](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.profitgrowth_mrq.md): Lấy Tăng trưởng lợi nhuận quý gần nhất so với cùng kỳ năm trước
+- [FA.Ratio.ProfitGrowth\_MRQ2](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.profitgrowth_mrq2.md): Lấy Tăng trưởng lợi nhuận quý gần nhì so với cùng kỳ năm trước
+- [FA.Ratio.ProfitGrowth\_TTM](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.profitgrowth_ttm.md): Lấy Tăng trưởng lợi nhuận 4 quý gần nhất so với 4 quý trước đó
+- [FA.Ratio.ProvisionChargesToLoans](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.provisionchargestoloans.md): Lấy Hệ số chi phí dự phòng trên tổng nợ (Dành cho Ngân hàng)
+- [FA.Ratio.PS](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.ps.md): Lấy P/S hiện tại của cổ phiếu
+- [FA.Ratio.PT](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.pt.md): Lấy Hệ số giá trên giá trị sổ sách của tài sản hữu hình (Dành cho Ngân hàng)
+- [FA.Ratio.QuickRatio](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.quickratio.md): Lấy Hệ số thanh toán nhanh
+- [FA.Ratio.ReceivablesTurnover](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.receivablesturnover.md): Lấy Hệ số vòng quay các khoản phải thu
+- [FA.Ratio.ROA](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.roa.md): Lấy ROA (Hệ số thu nhập trên tài sản)
+- [FA.Ratio.ROCE](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.roce.md): Lấy ROCE (Hệ số thu nhập trên vốn sử dụng)
+- [FA.Ratio.ROE](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.roe.md): Lấy ROE (Hệ số thu nhập trên vốn cổ phần)
+- [FA.Ratio.ROIC](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.roic.md): Lấy ROIC (Hệ số thu nhập trên vốn đầu tư)
+- [FA.Ratio.SalesGrowth\_03Yr](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.salesgrowth_03yr.md): Lấy Tăng trưởng doanh thu trung bình 3 năm
+- [FA.Ratio.SalesGrowth\_LFY](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.salesgrowth_lfy.md): Lấy Tăng trưởng doanh thu năm gần nhất so với năm trước
+- [FA.Ratio.SalesGrowth\_MRQ](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.salesgrowth_mrq.md): Lấy Tăng trưởng doanh thu quý gần nhất so với cùng kỳ năm trước
+- [FA.Ratio.SalesGrowth\_MRQ2](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.salesgrowth_mrq2.md): Lấy Tăng trưởng doanh thu quý gần nhì so với cùng kỳ năm trước
+- [FA.Ratio.SalesGrowth\_TTM](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.salesgrowth_ttm.md): Lấy Tăng trưởng doanh thu 4 quý gần nhất so với 4 quý trước đó
+- [FA.Ratio.SalesPerShare](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.salespershare.md): Lấy doanh thu trên 1 cổ phiếu
+- [FA.Ratio.TotalAssetsGrowth\_03Yr](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totalassetsgrowth_03yr.md): Lấy Tăng trưởng Tổng tài sản trung bình 3 năm
+- [FA.Ratio.TotalAssetsGrowth\_LFY](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totalassetsgrowth_lfy.md): Lấy Tăng trưởng Tổng tài sản năm gần nhất so với năm trước
+- [FA.Ratio.TotalAssetsGrowth\_MRQ](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totalassetsgrowth_mrq.md): Lấy Tăng trưởng Tổng tài sản quý gần nhất so với cùng kỳ năm trước
+- [FA.Ratio.TotalAssetsGrowth\_MRQ2](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totalassetsgrowth_mrq2.md): Lấy Tăng trưởng Tổng tài sản quý gần nhì so với cùng kỳ năm trước
+- [FA.Ratio.TotalAssetsGrowth\_TTM](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totalassetsgrowth_ttm.md): Lấy Tăng trưởng Tổng tài sản 4 quý gần nhất so với 4 quý trước đó
+- [FA.Ratio.TotalAssetsTurnover](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totalassetsturnover.md): Lấy Hệ số vòng quay tổng tài sản
+- [FA.Ratio.TotalDebtOverAssets](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totaldebtoverassets.md): Lấy Hệ số tổng nợ trên tổng tài sản
+- [FA.Ratio.TotalDebtOverEquity](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totaldebtoverequity.md): Lấy Hệ số tổng nợ trên Vốn chủ sở hữu
+- [FA.Ratio.YOEA](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.yoea.md): Lấy Tỷ suất sinh lợi của tài sản sinh lãi (Dành cho Ngân hàng)

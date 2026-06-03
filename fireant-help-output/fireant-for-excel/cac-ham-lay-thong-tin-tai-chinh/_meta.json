@@ -1,0 +1,14 @@
+{
+  "nhom-ham-fa.balancesheet": {
+    "title": "Lớp hàm FA.BalanceSheet"
+  },
+  "nhom-ham-fa.incomestatement": {
+    "title": "Lớp hàm FA.IncomeStatement"
+  },
+  "nhom-ham-fa.cashflow": {
+    "title": "Lớp hàm FA.CashFlow"
+  },
+  "nhom-ham-fa.ratio": {
+    "title": "Lớp hàm FA.Ratio"
+  }
+}

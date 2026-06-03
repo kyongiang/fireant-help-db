@@ -1,0 +1,17 @@
+{
+  "fa.intraday.date": {
+    "title": "FA.Intraday.Date"
+  },
+  "fa.intraday.price": {
+    "title": "FA.Intraday.Price"
+  },
+  "untitled": {
+    "title": "FA.Intraday.Side"
+  },
+  "fa.intraday.totalvolume": {
+    "title": "FA.Intraday.TotalVolume"
+  },
+  "fa.intraday.volume": {
+    "title": "FA.Intraday.Volume"
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "fa.stock.allstocksymbols": {
+    "title": "FA.Stock.AllStockSymbols"
+  },
+  "fa.stock.avgprice10d": {
+    "title": "FA.Stock.AvgPrice10d"
+  },
+  "fa.stock.avgprice20d": {
+    "title": "FA.Stock.AvgPrice20d"
+  },
+  "fa.stock.avgprice5d": {
+    "title": "FA.Stock.AvgPrice5d"
+  },
+  "fa.stock.avgvolume10d": {
+    "title": "FA.Stock.AvgVolume10d"
+  },
+  "fa.stock.avgvolume20d": {
+    "title": "FA.Stock.AvgVolume20d"
+  },
+  "fa.stock.avgvolume5d": {
+    "title": "FA.Stock.AvgVolume5d"
+  },
+  "fa.stock.buyquantity1m": {
+    "title": "FA.Stock.BuyQuantity1m"
+  },
+  "fa.stock.buyquantity1w": {
+    "title": "FA.Stock.BuyQuantity1w"
+  },
+  "fa.stock.buyquantity1y": {
+    "title": "FA.Stock.BuyQuantity1y"
+  },
+  "fa.stock.buyquantity2y": {
+    "title": "FA.Stock.BuyQuantity2y"
+  },
+  "fa.stock.buyquantity3m": {
+    "title": "FA.Stock.BuyQuantity3m"
+  },
+  "fa.stock.buyquantity3y": {
+    "title": "FA.Stock.BuyQuantity3y"
+  },
+  "fa.stock.buyquantity5y": {
+    "title": "FA.Stock.BuyQuantity5y"
+  },
+  "fa.stock.buyquantity6m": {
+    "title": "FA.Stock.BuyQuantity6m"
+  },
+  "fa.stock.dividendhistory": {
+    "title": "FA.Stock.DividendHistory"
+  },
+  "fa.stock.dividendincash_03yravg": {
+    "title": "FA.Stock.DividendInCash\\_03YrAvg"
+  },
+  "fa.stock.dividendinshares_03yravg": {
+    "title": "FA.Stock.DividendInShares\\_03YrAvg"
+  },
+  "fa.stock.exchange": {
+    "title": "FA.Stock.Exchange"
+  },
+  "fa.stock.freeshares": {
+    "title": "FA.Stock.FreeShares"
+  },
+  "fa.stock.highprice1m": {
+    "title": "FA.Stock.HighPrice1m"
+  },
+  "fa.stock.highprice1w": {
+    "title": "FA.Stock.HighPrice1w"
+  },
+  "fa.stock.highprice1y": {
+    "title": "FA.Stock.HighPrice1y"
+  },
+  "fa.stock.highprice2y": {
+    "title": "FA.Stock.HighPrice2y"
+  },
+  "fa.stock.highprice3m": {
+    "title": "FA.Stock.HighPrice3m"
+  },
+  "fa.stock.highprice3y": {
+    "title": "FA.Stock.HighPrice3y"
+  },
+  "fa.stock.highprice5y": {
+    "title": "FA.Stock.HighPrice5y"
+  },
+  "fa.stock.highprice6m": {
+    "title": "FA.Stock.HighPrice6m"
+  },
+  "fa.stock.industrycode": {
+    "title": "FA.Stock.IndustryCode"
+  },
+  "fa.stock.lastcloseddate": {
+    "title": "FA.Stock.LastClosedDate"
+  },
+  "fa.stock.lowprice1m": {
+    "title": "FA.Stock.LowPrice1m"
+  },
+  "fa.stock.lowprice1w": {
+    "title": "FA.Stock.LowPrice1w"
+  },
+  "fa.stock.lowprice1y": {
+    "title": "FA.Stock.LowPrice1y"
+  },
+  "untitled-6": {
+    "title": "FA.Stock.LowPrice2y"
+  },
+  "untitled-7": {
+    "title": "FA.Stock.LowPrice3m"
+  },
+  "fa.stock.lowprice3y": {
+    "title": "FA.Stock.LowPrice3y"
+  },
+  "untitled-8": {
+    "title": "FA.Stock.LowPrice5y"
+  },
+  "untitled-9": {
+    "title": "FA.Stock.LowPrice6m"
+  },
+  "untitled-10": {
+    "title": "FA.Stock.MarketCap"
+  },
+  "untitled": {
+    "title": "FA.Stock.Name"
+  },
+  "fa.stock.pricechange1m": {
+    "title": "FA.Stock.PriceChange1m"
+  },
+  "fa.stock.pricechange1w": {
+    "title": "FA.Stock.PriceChange1w"
+  },
+  "fa.stock.pricechange1y": {
+    "title": "FA.Stock.PriceChange1y"
+  },
+  "fa.stock.pricechange2y": {
+    "title": "FA.Stock.PriceChange2y"
+  },
+  "fa.stock.pricechange3m": {
+    "title": "FA.Stock.PriceChange3m"
+  },
+  "fa.stock.pricechange3y": {
+    "title": "FA.Stock.PriceChange3y"
+  },
+  "fa.stock.pricechange5y": {
+    "title": "FA.Stock.PriceChange5y"
+  },
+  "fa.stock.pricechange6m": {
+    "title": "FA.Stock.PriceChange6m"
+  },
+  "fa.stock.sellquantity1m": {
+    "title": "FA.Stock.SellQuantity1m"
+  },
+  "fa.stock.sellquantity1w": {
+    "title": "FA.Stock.SellQuantity1w"
+  },
+  "fa.stock.sellquantity1y": {
+    "title": "FA.Stock.SellQuantity1y"
+  },
+  "fa.stock.sellquantity2y": {
+    "title": "FA.Stock.SellQuantity2y"
+  },
+  "fa.stock.sellquantity3m": {
+    "title": "FA.Stock.SellQuantity3m"
+  },
+  "fa.stock.sellquantity3y": {
+    "title": "FA.Stock.SellQuantity3y"
+  },
+  "fa.stock.sellquantity5y": {
+    "title": "FA.Stock.SellQuantity5y"
+  },
+  "fa.stock.sellquantity6m": {
+    "title": "FA.Stock.SellQuantity6m"
+  },
+  "fa.stock.sharesoutstanding": {
+    "title": "FA.Stock.SharesOutstanding"
+  },
+  "fa.stock.stocksymbolsbyexchange": {
+    "title": "FA.Stock.StockSymbolsByExchange"
+  },
+  "fa.stock.stocksymbolsbyindustry": {
+    "title": "FA.Stock.StockSymbolsByIndustry"
+  }
+}

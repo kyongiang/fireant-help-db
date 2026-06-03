@@ -1,0 +1,76 @@
+---
+title: "Các hàm lấy dữ liệu thời gian thực"
+source: "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday"
+---
+
+# Các hàm lấy dữ liệu thời gian thực
+
+- [Lớp hàm FA.Intraday](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.intraday.md): Tập hợp các hàm lấy thông tin giao dịch ứng với mỗi lần khớp của mã chứng khoán
+- [FA.Intraday.Date](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.intraday/fa.intraday.date.md): Lấy thời gian khớp lệnh trong ngày của 1 mã hoặc index
+- [FA.Intraday.Price](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.intraday/fa.intraday.price.md): Lấy giá khớp lệnh trong ngày của 1 mã hoặc index
+- [FA.Intraday.Side](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.intraday/untitled.md): Lấy phía chủ động khớp lệnh
+- [FA.Intraday.TotalVolume](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.intraday/fa.intraday.totalvolume.md): Lấy tổng khối lượng khớp lệnh tích lũy trong ngày của 1 mã hoặc index
+- [FA.Intraday.Volume](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.intraday/fa.intraday.volume.md): Lấy khối lượng khớp lệnh trong ngày của 1 mã hoặc index tương ứng với một lần khớp nhất định
+- [Lớp hàm FA.Quote](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote.md): Tập hợp các hàm lấy thông tin liên quan đến giao dịch của mã cổ phiếu ở thời điểm hiện tại
+- [FA.Quote.BuyCount](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.buycount.md): Lấy số lệnh đặt mua
+- [FA.Quote.BuyForeignQuantity](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.buyforeignquantity.md): Lấy khối lượng nhà đầu tư nước ngoài mua
+- [FA.Quote.BuyForeignValue](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.buyforeignvalue.md): Lấy giá trị nhà đầu tư nước ngoài mua
+- [FA.Quote.BuyQuantity](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.buyquantity.md): Lấy khối lượng đặt mua
+- [FA.Quote.CurrentForeignRoom](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.currentforeignroom.md): Lấy Room hiện thời của nhà đầu tư nước ngoài
+- [FA.Quote.DateTime](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.datetime.md): Lấy ngày giờ cập nhật giá lần cuối
+- [FA.Quote.Name](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.name.md): Lấy tên công ty ứng với mã chứng khoán
+- [FA.Quote.PriceAsk1](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceask1.md): Lấy giá đặt bán thấp nhất
+- [FA.Quote.PriceAsk2](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceask2.md): Lấy giá đặt bán thấp nhì
+- [FA.Quote.PriceAsk3](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceask3.md): Lấy giá đặt bán thấp thứ ba
+- [FA.Quote.PriceAverage](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceaverage.md): Lấy giá khớp lệnh trung bình
+- [FA.Quote.PriceBasic](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricebasic.md): Lấy giá tham chiếu
+- [FA.Quote.PriceBid1](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricebid1.md): Lấy giá đặt mua cao nhất
+- [FA.Quote.PriceBid2](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricebid2.md): Lấy giá đặt mua cao nhì
+- [FA.Quote.PriceBid3](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricebid3.md): Lấy giá đặt mua cao thứ ba
+- [FA.Quote.PriceCeiling](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceceiling.md): Lấy giá trần
+- [FA.Quote.PriceChange](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricechange.md): Lấy thay đổi giá của chứng khoán
+- [FA.Quote.PriceClose](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceclose.md): Lấy giá đóng cửa
+- [FA.Quote.PriceFloor](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricefloor.md): Lấy giá sàn
+- [FA.Quote.PriceHigh](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricehigh.md): Lấy giá khớp lệnh cao nhất trong phiên hiện tại
+- [FA.Quote.PriceLast](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricelast.md): Lấy giá khớp lệnh gần nhất. Trả về giá tham chiếu nếu phiên hiện tại chưa có khớp lệnh.
+- [FA.Quote.PriceLow](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricelow.md): Lấy giá khớp lệnh thấp nhất trong ngày
+- [FA.Quote.PriceOpen](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceopen.md): Lấy giá mở cửa
+- [FA.Quote.PricePercentChange](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/untitled-3.md): Lấy thay đổi giá (%) của cổ phiếu
+- [FA.Quote.QuantityAsk1](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.quantityask1.md): Lấy khối lượng đặt bán tương ứng giá đặt bán thấp nhất
+- [FA.Quote.QuantityAsk2](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/untitled-1.md): Lấy khối lượng đặt bán tương ứng giá đặt bán thấp nhì
+- [FA.Quote.QuantityAsk3](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/untitled.md): Lấy khối lượng đặt bán tương ứng giá đặt bán thấp thứ ba
+- [FA.Quote.QuantityBid1](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.quantitybid1.md): Lấy khối lượng đặt mua tương ứng giá đặt mua cao nhất
+- [FA.Quote.QuantityBid2](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.quantitybid2.md): Lấy khối lượng đặt mua tương ứng giá đặt mua cao nhì
+- [FA.Quote.QuantityBid3](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.quantitybid3.md): Lấy khối lượng đặt mua tương ứng giá đặt mua cao thứ ba
+- [FA.Quote.SellCount](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.sellcount.md): Lấy số lệnh đặt bán
+- [FA.Quote.SellForeignQuantity](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.sellforeignquantity.md): Lấy khối lượng nhà đầu tư nước ngoài bán
+- [FA.Quote.SellForeignValue](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.sellforeignvalue.md): Lấy giá trị nhà đầu tư nước ngoài bán
+- [FA.Quote.SellQuantity](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.sellquantity.md): Lấy khối lượng đặt bán
+- [FA.Quote.Time](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.time.md): Lấy thời gian cập nhật giá lần cuối
+- [FA.Quote.TotalActiveBuyVolume](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.totalactivebuyvolume.md): Lấy tổng khối lượng mua chủ động
+- [FA.Quote.TotalActiveSellVolume](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.totalactivesellvolume.md): Lấy tổng khối lượng bán chủ động
+- [FA.Quote.TotalTrade](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.totaltrade.md): Lấy tổng số lệnh khớp trong ngày
+- [FA.Quote.TotalValue](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.totalvalue.md): Lấy tổng giá trị khớp trong ngày
+- [FA.Quote.TotalVolume](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.totalvolume.md): Lấy tổng khối lượng khớp trong ngày
+- [FA.Quote.Volume](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.volume.md): Lấy khối lượng khớp gần nhất
+- [Lớp hàm FA.Market](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market.md): Tập hợp các hàm lấy thông tin thông kê thị trường theo thời gian thực
+- [FA.Market.Advances](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.advances.md): Lấy số lượng mã tăng trên sàn
+- [FA.Market.BuyForeignQuantity](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.buyforeignquantity.md): Lấy tổng khối lượng NĐT nước ngoài mua trên sàn
+- [FA.Market.BuyForeignValue](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.buyforeignvalue.md): Lấy tổng giá trị NĐT nước ngoài mua trên sàn
+- [FA.Market.Declines](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.declines.md): Lấy số lượng mã giảm trên sàn
+- [FA.Market.IndexBasic](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.indexbasic.md): Lấy giá trị index tham chiếu
+- [FA.Market.IndexCurrent](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.indexcurrent.md): Lấy giá trị index hiện tại
+- [FA.Market.IndexHigh](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.indexhigh.md): Lấy giá trị index cao nhất trong ngày
+- [FA.Market.IndexLow](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.indexlow.md): Lấy giá trị index thấp nhất trong ngày
+- [FA.Market.Minutes](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.minutes.md): Lấy số phút thực sự giao dịch của thị trường (bỏ qua thời gian nghỉ)
+- [FA.Market.PTValue](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.ptvalue.md): Lấy tổng giá trị thỏa thuận trên sàn
+- [FA.Market.PTVolume](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.ptvolume.md): Lấy tổng khối lượng thỏa thuận trên sàn
+- [FA.Market.SellForeignQuantity](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.sellforeignquantity.md): Lấy tổng khối lượng NĐT nước ngoài bán trên sàn
+- [FA.Market.SellForeignValue](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.sellforeignvalue.md): Lấy tổng giá trị NĐT nước ngoài bán trên sàn
+- [FA.Market.Time](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.time.md): Lấy thời gian cập nhật hiện tại của index
+- [FA.Market.TotalTrade](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.totaltrade.md): Lấy tổng số lệnh khớp trên sàn
+- [FA.Market.TotalValue](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.totalvalue.md): Lấy tổng giá trị khớp lệnh trên sàn
+- [FA.Market.TotalVolume](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.totalvolume.md): Lấy tổng khối lượng khớp lệnh trên sàn
+- [FA.Market.Traded](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.traded.md): Lấy số lượng mã có giao dịch trên sàn
+- [FA.Market.Unchange](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.unchange.md): Lấy số lượng mã không thay đổi giá trên sàn
+- [FA.Market.Untraded](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.untraded.md): Lấy số lượng mã không có giao dịch trên sàn

@@ -1,0 +1,209 @@
+{
+  "fa.ratio.basicepsgrowth_03yr": {
+    "title": "FA.Ratio.BasicEPSGrowth\\_03Yr"
+  },
+  "fa.ratio.basicepsgrowth_lfy": {
+    "title": "FA.Ratio.BasicEPSGrowth\\_LFY"
+  },
+  "fa.ratio.basicepsgrowth_mrq": {
+    "title": "FA.Ratio.BasicEPSGrowth\\_MRQ"
+  },
+  "fa.ratio.basicepsgrowth_mrq2": {
+    "title": "FA.Ratio.BasicEPSGrowth\\_MRQ2"
+  },
+  "fa.ratio.basicepsgrowth_ttm": {
+    "title": "FA.Ratio.BasicEPSGrowth\\_TTM"
+  },
+  "fa.ratio.bookvaluepershare": {
+    "title": "FA.Ratio.BookValuePerShare"
+  },
+  "fa.ratio.cof": {
+    "title": "FA.Ratio.COF"
+  },
+  "fa.ratio.costtoassets": {
+    "title": "FA.Ratio.CostToAssets"
+  },
+  "fa.ratio.costtoincome": {
+    "title": "FA.Ratio.CostToIncome"
+  },
+  "fa.ratio.costtoloans": {
+    "title": "FA.Ratio.CostToLoans"
+  },
+  "fa.ratio.currentassetsturnover": {
+    "title": "FA.Ratio.CurrentAssetsTurnover"
+  },
+  "fa.ratio.currentratio": {
+    "title": "FA.Ratio.CurrentRatio"
+  },
+  "fa.ratio.dilutedepsgrowth_03yr": {
+    "title": "FA.Ratio.DilutedEPSGrowth\\_03Yr"
+  },
+  "fa.ratio.dilutedepsgrowth_lfy": {
+    "title": "FA.Ratio.DilutedEPSGrowth\\_LFY"
+  },
+  "fa.ratio.dilutedepsgrowth_mrq": {
+    "title": "FA.Ratio.DilutedEPSGrowth\\_MRQ"
+  },
+  "fa.ratio.dilutedepsgrowth_mrq2": {
+    "title": "FA.Ratio.DilutedEPSGrowth\\_MRQ2"
+  },
+  "fa.ratio.dilutedepsgrowth_ttm": {
+    "title": "FA.Ratio.DilutedEPSGrowth\\_TTM"
+  },
+  "fa.ratio.ebitmargin": {
+    "title": "FA.Ratio.EBITMargin"
+  },
+  "fa.ratio.eps": {
+    "title": "FA.Ratio.EPS"
+  },
+  "fa.ratio.equitytoloans": {
+    "title": "FA.Ratio.EquityToLoans"
+  },
+  "fa.ratio.grossmargin": {
+    "title": "FA.Ratio.GrossMargin"
+  },
+  "fa.ratio.interestcoverageratio": {
+    "title": "FA.Ratio.InterestCoverageRatio"
+  },
+  "fa.ratio.inventoryturnover": {
+    "title": "FA.Ratio.InventoryTurnover"
+  },
+  "fa.ratio.lar": {
+    "title": "FA.Ratio.LAR"
+  },
+  "fa.ratio.ldr": {
+    "title": "FA.Ratio.LDR"
+  },
+  "fa.ratio.loanlossreservestoloans": {
+    "title": "FA.Ratio.LoanlossReservesToLoans"
+  },
+  "fa.ratio.loanlossreservestonpls": {
+    "title": "FA.Ratio.LoanlossReservesToNPLs"
+  },
+  "fa.ratio.loanstodeposit": {
+    "title": "FA.Ratio.LoansToDeposit"
+  },
+  "fa.ratio.longtermdebtoverequity": {
+    "title": "FA.Ratio.LongtermDebtOverEquity"
+  },
+  "fa.ratio.netprofitmargin": {
+    "title": "FA.Ratio.NetProfitMargin"
+  },
+  "fa.ratio.nim": {
+    "title": "FA.Ratio.NIM"
+  },
+  "fa.ratio.noninterestincometonetinterestincome": {
+    "title": "FA.Ratio.NonInterestIncomeToNetInterestIncome"
+  },
+  "fa.ratio.npls": {
+    "title": "FA.Ratio.NPLs"
+  },
+  "fa.ratio.nplstoloans": {
+    "title": "FA.Ratio.NPLsToLoans"
+  },
+  "fa.ratio.operatingmargin": {
+    "title": "FA.Ratio.OperatingMargin"
+  },
+  "fa.ratio.pb": {
+    "title": "FA.Ratio.PB"
+  },
+  "fa.ratio.pc": {
+    "title": "FA.Ratio.PC"
+  },
+  "fa.ratio.pe": {
+    "title": "FA.Ratio.PE"
+  },
+  "fa.ratio.preprovisionroa": {
+    "title": "FA.Ratio.PreprovisionROA"
+  },
+  "fa.ratio.pretaxmargin": {
+    "title": "FA.Ratio.PreTaxMargin"
+  },
+  "fa.ratio.profitgrowth_03yr": {
+    "title": "FA.Ratio.ProfitGrowth\\_03Yr"
+  },
+  "fa.ratio.profitgrowth_lfy": {
+    "title": "FA.Ratio.ProfitGrowth\\_LFY"
+  },
+  "fa.ratio.profitgrowth_mrq": {
+    "title": "FA.Ratio.ProfitGrowth\\_MRQ"
+  },
+  "fa.ratio.profitgrowth_mrq2": {
+    "title": "FA.Ratio.ProfitGrowth\\_MRQ2"
+  },
+  "fa.ratio.profitgrowth_ttm": {
+    "title": "FA.Ratio.ProfitGrowth\\_TTM"
+  },
+  "fa.ratio.provisionchargestoloans": {
+    "title": "FA.Ratio.ProvisionChargesToLoans"
+  },
+  "fa.ratio.ps": {
+    "title": "FA.Ratio.PS"
+  },
+  "fa.ratio.pt": {
+    "title": "FA.Ratio.PT"
+  },
+  "fa.ratio.quickratio": {
+    "title": "FA.Ratio.QuickRatio"
+  },
+  "fa.ratio.receivablesturnover": {
+    "title": "FA.Ratio.ReceivablesTurnover"
+  },
+  "fa.ratio.roa": {
+    "title": "FA.Ratio.ROA"
+  },
+  "fa.ratio.roce": {
+    "title": "FA.Ratio.ROCE"
+  },
+  "fa.ratio.roe": {
+    "title": "FA.Ratio.ROE"
+  },
+  "fa.ratio.roic": {
+    "title": "FA.Ratio.ROIC"
+  },
+  "fa.ratio.salesgrowth_03yr": {
+    "title": "FA.Ratio.SalesGrowth\\_03Yr"
+  },
+  "fa.ratio.salesgrowth_lfy": {
+    "title": "FA.Ratio.SalesGrowth\\_LFY"
+  },
+  "fa.ratio.salesgrowth_mrq": {
+    "title": "FA.Ratio.SalesGrowth\\_MRQ"
+  },
+  "fa.ratio.salesgrowth_mrq2": {
+    "title": "FA.Ratio.SalesGrowth\\_MRQ2"
+  },
+  "fa.ratio.salesgrowth_ttm": {
+    "title": "FA.Ratio.SalesGrowth\\_TTM"
+  },
+  "fa.ratio.salespershare": {
+    "title": "FA.Ratio.SalesPerShare"
+  },
+  "fa.ratio.totalassetsgrowth_03yr": {
+    "title": "FA.Ratio.TotalAssetsGrowth\\_03Yr"
+  },
+  "fa.ratio.totalassetsgrowth_lfy": {
+    "title": "FA.Ratio.TotalAssetsGrowth\\_LFY"
+  },
+  "fa.ratio.totalassetsgrowth_mrq": {
+    "title": "FA.Ratio.TotalAssetsGrowth\\_MRQ"
+  },
+  "fa.ratio.totalassetsgrowth_mrq2": {
+    "title": "FA.Ratio.TotalAssetsGrowth\\_MRQ2"
+  },
+  "fa.ratio.totalassetsgrowth_ttm": {
+    "title": "FA.Ratio.TotalAssetsGrowth\\_TTM"
+  },
+  "fa.ratio.totalassetsturnover": {
+    "title": "FA.Ratio.TotalAssetsTurnover"
+  },
+  "fa.ratio.totaldebtoverassets": {
+    "title": "FA.Ratio.TotalDebtOverAssets"
+  },
+  "fa.ratio.totaldebtoverequity": {
+    "title": "FA.Ratio.TotalDebtOverEquity"
+  },
+  "fa.ratio.yoea": {
+    "title": "FA.Ratio.YOEA"
+  }
+}

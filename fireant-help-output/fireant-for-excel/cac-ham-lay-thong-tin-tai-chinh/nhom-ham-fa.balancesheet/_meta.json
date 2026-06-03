@@ -1,0 +1,44 @@
+{
+  "fa.balancesheet.cash": {
+    "title": "FA.BalanceSheet.Cash"
+  },
+  "fa.balancesheet.currentassets": {
+    "title": "FA.BalanceSheet.CurrentAssets"
+  },
+  "fa.balancesheet.fixedassets": {
+    "title": "FA.BalanceSheet.FixedAssets"
+  },
+  "fa.balancesheet.lfy": {
+    "title": "FA.BalanceSheet.LFY"
+  },
+  "fa.balancesheet.longtermliabilities": {
+    "title": "FA.BalanceSheet.LongTermLiabilities"
+  },
+  "fa.balancesheet.quarter": {
+    "title": "FA.BalanceSheet.Quarter"
+  },
+  "fa.balancesheet.reports": {
+    "title": "FA.BalanceSheet.Reports"
+  },
+  "fa.balancesheet.shorttermliabilities": {
+    "title": "FA.BalanceSheet.ShortTermLiabilities"
+  },
+  "fa.balancesheet.stockholderequity": {
+    "title": "FA.BalanceSheet.StockHolderEquity"
+  },
+  "fa.balancesheet.totalassets": {
+    "title": "FA.BalanceSheet.TotalAssets"
+  },
+  "fa.balancesheet.totalinventories": {
+    "title": "FA.BalanceSheet.TotalInventories"
+  },
+  "fa.balancesheet.totalliabilities": {
+    "title": "FA.BalanceSheet.TotalLiabilities"
+  },
+  "fa.balancesheet.value": {
+    "title": "FA.BalanceSheet.Value"
+  },
+  "fa.balancesheet.year": {
+    "title": "FA.BalanceSheet.Year"
+  }
+}

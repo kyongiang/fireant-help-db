@@ -1,0 +1,74 @@
+{
+  "fa.company.branches": {
+    "title": "FA.Company.Branches"
+  },
+  "fa.company.businessareas": {
+    "title": "FA.Company.BusinessAreas"
+  },
+  "fa.company.companyname": {
+    "title": "FA.Company.CompanyName"
+  },
+  "fa.company.companytype": {
+    "title": "FA.Company.CompanyType"
+  },
+  "fa.company.dateofissue": {
+    "title": "FA.Company.DateOfIssue"
+  },
+  "fa.company.email": {
+    "title": "FA.Company.Email"
+  },
+  "fa.company.employees": {
+    "title": "FA.Company.Employees"
+  },
+  "fa.company.establishmentdate": {
+    "title": "FA.Company.EstablishmentDate"
+  },
+  "fa.company.exchange": {
+    "title": "FA.Company.Exchange"
+  },
+  "fa.company.fax": {
+    "title": "FA.Company.Fax"
+  },
+  "fa.company.foreignownership": {
+    "title": "FA.Company.ForeignOwnership"
+  },
+  "fa.company.headquarter": {
+    "title": "FA.Company.HeadQuarter"
+  },
+  "fa.company.history": {
+    "title": "FA.Company.History"
+  },
+  "fa.company.insidertransactions": {
+    "title": "FA.Company.InsiderTransactions"
+  },
+  "fa.company.majorholders": {
+    "title": "FA.Company.MajorHolders"
+  },
+  "fa.company.officers": {
+    "title": "FA.Company.Officers"
+  },
+  "fa.company.otherownership": {
+    "title": "FA.Company.OtherOwnership"
+  },
+  "fa.company.overview": {
+    "title": "FA.Company.Overview"
+  },
+  "fa.company.phone": {
+    "title": "FA.Company.Phone"
+  },
+  "fa.company.registeredcapital": {
+    "title": "FA.Company.RegisteredCapital"
+  },
+  "fa.company.shortname": {
+    "title": "FA.Company.ShortName"
+  },
+  "fa.company.taxidnumber": {
+    "title": "FA.Company.TaxIDNumber"
+  },
+  "fa.company.stateownership": {
+    "title": "FA.Company.StateOwnership"
+  },
+  "fa.company.webaddress": {
+    "title": "FA.Company.WebAddress"
+  }
+}

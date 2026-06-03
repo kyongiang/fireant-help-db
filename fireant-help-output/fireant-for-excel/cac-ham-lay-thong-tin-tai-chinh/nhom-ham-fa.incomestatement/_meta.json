@@ -1,0 +1,35 @@
+{
+  "fa.incomestatement.grossprofit": {
+    "title": "FA.IncomeStatement.GrossProfit"
+  },
+  "fa.incomestatement.lfy": {
+    "title": "FA.IncomeStatement.LFY"
+  },
+  "fa.incomestatement.netsales-1": {
+    "title": "FA.IncomeStatement.NetSales"
+  },
+  "fa.incomestatement.otherprofit-1": {
+    "title": "FA.IncomeStatement.OtherProfit"
+  },
+  "fa.incomestatement.profitafterincometaxes-1": {
+    "title": "FA.IncomeStatement.ProfitAfterIncomeTaxes"
+  },
+  "fa.incomestatement.profitbeforeincometaxes-1": {
+    "title": "FA.IncomeStatement.ProfitBeforeIncomeTaxes"
+  },
+  "fa.incomestatement.profitfromfinancialactivities-1": {
+    "title": "FA.IncomeStatement.ProfitFromFinancialActivities"
+  },
+  "fa.incomestatement.quarter": {
+    "title": "FA.IncomeStatement.Quarter"
+  },
+  "fa.incomestatement.reports": {
+    "title": "FA.IncomeStatement.Reports"
+  },
+  "fa.incomestatement.value": {
+    "title": "FA.IncomeStatement.Value"
+  },
+  "fa.incomestatement.year": {
+    "title": "FA.IncomeStatement.Year"
+  }
+}

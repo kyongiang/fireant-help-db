@@ -1,0 +1,74 @@
+{
+  "fa.historical.adjratio": {
+    "title": "FA.Historical.AdjRatio"
+  },
+  "fa.historical.average": {
+    "title": "FA.Historical.Average"
+  },
+  "fa.historical.basic": {
+    "title": "FA.Historical.Basic"
+  },
+  "fa.historical.buycount": {
+    "title": "FA.Historical.BuyCount"
+  },
+  "fa.historical.buyforeignquantity": {
+    "title": "FA.Historical.BuyForeignQuantity"
+  },
+  "fa.historical.buyforeignvalue": {
+    "title": "FA.Historical.BuyForeignValue"
+  },
+  "fa.historical.buyquantity": {
+    "title": "FA.Historical.BuyQuantity"
+  },
+  "fa.historical.close": {
+    "title": "FA.Historical.Close"
+  },
+  "fa.historical.currentforeignroom": {
+    "title": "FA.Historical.CurrentForeignRoom"
+  },
+  "fa.historical.date": {
+    "title": "FA.Historical.Date"
+  },
+  "fa.historical.dealvolume": {
+    "title": "FA.Historical.DealVolume"
+  },
+  "fa.historical.high": {
+    "title": "FA.Historical.High"
+  },
+  "fa.historical.low": {
+    "title": "FA.Historical.Low"
+  },
+  "fa.historical.marketcap": {
+    "title": "FA.Historical.MarketCap"
+  },
+  "fa.historical.open": {
+    "title": "FA.Historical.Open"
+  },
+  "fa.historical.putthroughvalue": {
+    "title": "FA.Historical.PutthroughValue"
+  },
+  "fa.historical.putthroughvolume": {
+    "title": "FA.Historical.PutthroughVolume"
+  },
+  "fa.historical.sellcount": {
+    "title": "FA.Historical.SellCount"
+  },
+  "fa.historical.sellforeignquantity": {
+    "title": "FA.Historical.SellForeignQuantity"
+  },
+  "fa.historical.sellforeignvalue": {
+    "title": "FA.Historical.SellForeignValue"
+  },
+  "fa.historical.sellquantity": {
+    "title": "FA.Historical.SellQuantity"
+  },
+  "fa.historical.shares": {
+    "title": "FA.Historical.Shares"
+  },
+  "fa.historical.totalvalue": {
+    "title": "FA.Historical.TotalValue"
+  },
+  "fa.historical.totalvolume": {
+    "title": "FA.Historical.TotalVolume"
+  }
+}

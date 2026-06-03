@@ -1,0 +1,116 @@
+{
+  "vai-tro-cua-watchlist": {
+    "title": "Hướng dẫn chung"
+  },
+  "ai-predition": {
+    "title": "AI Predition"
+  },
+  "untitled": {
+    "title": "Rainbow"
+  },
+  "guppy-multiple-moving-average": {
+    "title": "Guppy Multiple Moving Average"
+  },
+  "normalized-volume": {
+    "title": "Normalized Volume"
+  },
+  "multi-color-dragon-extended-mcdx": {
+    "title": "Multi Color Dragon Extended (MCDX)"
+  },
+  "stochastic-kdj": {
+    "title": "Stochastic KDJ"
+  },
+  "big-trade": {
+    "title": "Big Trade"
+  },
+  "foreigner-trade-statistics": {
+    "title": "Foreigner Trade Statistics"
+  },
+  "net-foreigner-trade": {
+    "title": "Net Foreigner Trade"
+  },
+  "supply-and-demand-statistics": {
+    "title": "Supply & Demand Statistics"
+  },
+  "net-proprietary-trade": {
+    "title": "Net Proprietary Trade"
+  },
+  "relative-rotation-graph-rrg": {
+    "title": "Relative Rotation Graph (RRG)"
+  },
+  "sessions": {
+    "title": "Sessions"
+  },
+  "mfi": {
+    "title": "Money Flow Index (MFI)"
+  },
+  "rsi": {
+    "title": "Relative Strength Index (RSI)"
+  },
+  "cci": {
+    "title": "Commodity Channel Index (CCI)"
+  },
+  "macd": {
+    "title": "Advanced MACD"
+  },
+  "ulcer": {
+    "title": "Ulcer"
+  },
+  "psychological-index": {
+    "title": "Psychological Index"
+  },
+  "parabolic-stop-and-reserve-psar": {
+    "title": "Parabolic Stop And Reserve (PSAR)"
+  },
+  "magic-trend": {
+    "title": "Magic Trend"
+  },
+  "sensitive-ma": {
+    "title": "Sensitive MA"
+  },
+  "ema": {
+    "title": "EMA"
+  },
+  "bollinger-bands": {
+    "title": "Bollinger Bands"
+  },
+  "highest-lowest-bands": {
+    "title": "Highest Lowest Bands"
+  },
+  "abandoned-baby": {
+    "title": "Abandoned Baby"
+  },
+  "three-black-crows-three-white-soldier": {
+    "title": "Three Black Crows / Three White Soldier"
+  },
+  "evening-star-morning-star": {
+    "title": "Evening Star / Morning Star"
+  },
+  "evening-doji-star-morning-doji-star": {
+    "title": "Evening Doji Star / Morning Doji Star"
+  },
+  "tasuki-gap": {
+    "title": "Tasuki GAP"
+  },
+  "dark-cloud-cover-piercing": {
+    "title": "Dark Cloud Cover / Piercing"
+  },
+  "engulfing": {
+    "title": "Engulfing"
+  },
+  "harami": {
+    "title": "Harami"
+  },
+  "harami-cross": {
+    "title": "Harami Cross"
+  },
+  "meeting-lines": {
+    "title": "Meeting Lines"
+  },
+  "separating-lines": {
+    "title": "Separating Lines"
+  },
+  "doji-star": {
+    "title": "Doji Star"
+  }
+}

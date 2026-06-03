@@ -1,0 +1,3094 @@
+{
+  "version": 1,
+  "source": "https://help.fireant.vn",
+  "scraped_at": "2026-05-15T00:40:32Z",
+  "stats": {
+    "pages": 428,
+    "nodes_in_tree": 428,
+    "root_sections": 9,
+    "images": 251,
+    "meta_files": 39
+  },
+  "conventions": {
+    "content_file": "README.md",
+    "nav_file": "_meta.json",
+    "images_dir": "images",
+    "url_to_path": "https://help.fireant.vn/{path} → {output_dir}/{path}/README.md"
+  },
+  "tree": [
+    {
+      "slug": "index",
+      "title": "TỔNG QUAN",
+      "path": "index",
+      "source": "https://help.fireant.vn",
+      "has_readme": true
+    },
+    {
+      "slug": "fireant-for-web",
+      "title": "Tổng quan",
+      "path": "fireant-for-web",
+      "source": "https://help.fireant.vn/fireant-for-web",
+      "has_readme": true,
+      "children": [
+        {
+          "slug": "tao-va-thiet-lap-tai-khoan-su-dung",
+          "title": "Tạo và thiết lập tài khoản Hội viên FireAnt",
+          "path": "fireant-for-web/tao-va-thiet-lap-tai-khoan-su-dung",
+          "source": "https://help.fireant.vn/fireant-for-web/tao-va-thiet-lap-tai-khoan-su-dung",
+          "has_readme": true
+        },
+        {
+          "slug": "ho-so-ca-nhan",
+          "title": "Hồ sơ cá nhân",
+          "path": "fireant-for-web/ho-so-ca-nhan",
+          "source": "https://help.fireant.vn/fireant-for-web/ho-so-ca-nhan",
+          "has_readme": true
+        },
+        {
+          "slug": "thanh-toan-phi-hoi-vien",
+          "title": "Thanh toán phí hội viên",
+          "path": "fireant-for-web/thanh-toan-phi-hoi-vien",
+          "source": "https://help.fireant.vn/fireant-for-web/thanh-toan-phi-hoi-vien",
+          "has_readme": true
+        },
+        {
+          "slug": "giao-dien-ben-ngoai",
+          "title": "Giao diện bên ngoài",
+          "path": "fireant-for-web/giao-dien-ben-ngoai",
+          "source": "https://help.fireant.vn/fireant-for-web/giao-dien-ben-ngoai",
+          "has_readme": true
+        },
+        {
+          "slug": "giao-dien-ben-trong",
+          "title": "Giao diện bên trong",
+          "path": "fireant-for-web/giao-dien-ben-trong",
+          "source": "https://help.fireant.vn/fireant-for-web/giao-dien-ben-trong",
+          "has_readme": true
+        },
+        {
+          "slug": "cong-dong",
+          "title": "CỘNG ĐỒNG",
+          "path": "fireant-for-web/cong-dong",
+          "source": "https://help.fireant.vn/fireant-for-web/cong-dong",
+          "has_readme": true,
+          "children": [
+            {
+              "slug": "bai-viet-tu-cong-dong",
+              "title": "Bài viết từ cộng đồng",
+              "path": "fireant-for-web/cong-dong/bai-viet-tu-cong-dong",
+              "source": "https://help.fireant.vn/fireant-for-web/cong-dong/bai-viet-tu-cong-dong",
+              "has_readme": true
+            },
+            {
+              "slug": "thanh-vien",
+              "title": "Thành viên",
+              "path": "fireant-for-web/cong-dong/thanh-vien",
+              "source": "https://help.fireant.vn/fireant-for-web/cong-dong/thanh-vien",
+              "has_readme": true
+            },
+            {
+              "slug": "hoi-nhom",
+              "title": "Hội nhóm",
+              "path": "fireant-for-web/cong-dong/hoi-nhom",
+              "source": "https://help.fireant.vn/fireant-for-web/cong-dong/hoi-nhom",
+              "has_readme": true
+            }
+          ]
+        },
+        {
+          "slug": "bo-cuc-layout",
+          "title": "Trang thông tin và Không gian làm việc",
+          "path": "fireant-for-web/bo-cuc-layout",
+          "source": "https://help.fireant.vn/fireant-for-web/bo-cuc-layout",
+          "has_readme": true,
+          "children": [
+            {
+              "slug": "quan-ly-khong-gian-lam-viec",
+              "title": "Quản lý không gian làm việc",
+              "path": "fireant-for-web/bo-cuc-layout/quan-ly-khong-gian-lam-viec",
+              "source": "https://help.fireant.vn/fireant-for-web/bo-cuc-layout/quan-ly-khong-gian-lam-viec",
+              "has_readme": true
+            },
+            {
+              "slug": "quan-ly-bo-cuc",
+              "title": "Quản lý trang thông tin",
+              "path": "fireant-for-web/bo-cuc-layout/quan-ly-bo-cuc",
+              "source": "https://help.fireant.vn/fireant-for-web/bo-cuc-layout/quan-ly-bo-cuc",
+              "has_readme": true
+            },
+            {
+              "slug": "cac-bo-cuc-mac-dinh",
+              "title": "Các trang thông tin dựng sẵn",
+              "path": "fireant-for-web/bo-cuc-layout/cac-bo-cuc-mac-dinh",
+              "source": "https://help.fireant.vn/fireant-for-web/bo-cuc-layout/cac-bo-cuc-mac-dinh",
+              "has_readme": true,
+              "children": [
+                {
+                  "slug": "bo-cuc-rong",
+                  "title": "Trang thông tin với nội dung trống",
+                  "path": "fireant-for-web/bo-cuc-layout/cac-bo-cuc-mac-dinh/bo-cuc-rong",
+                  "source": "https://help.fireant.vn/fireant-for-web/bo-cuc-layout/cac-bo-cuc-mac-dinh/bo-cuc-rong",
+                  "has_readme": true
+                },
+                {
+                  "slug": "dashboard",
+                  "title": "Dashboard",
+                  "path": "fireant-for-web/bo-cuc-layout/cac-bo-cuc-mac-dinh/dashboard",
+                  "source": "https://help.fireant.vn/fireant-for-web/bo-cuc-layout/cac-bo-cuc-mac-dinh/dashboard",
+                  "has_readme": true
+                },
+                {
+                  "slug": "tim-kiem-co-hoi",
+                  "title": "Tìm kiếm cơ hội",
+                  "path": "fireant-for-web/bo-cuc-layout/cac-bo-cuc-mac-dinh/tim-kiem-co-hoi",
+                  "source": "https://help.fireant.vn/fireant-for-web/bo-cuc-layout/cac-bo-cuc-mac-dinh/tim-kiem-co-hoi",
+                  "has_readme": true
+                },
+                {
+                  "slug": "tim-kiem-co-hoi-voi-bieu-do",
+                  "title": "Tìm kiếm cơ hội với biểu đồ",
+                  "path": "fireant-for-web/bo-cuc-layout/cac-bo-cuc-mac-dinh/tim-kiem-co-hoi-voi-bieu-do",
+                  "source": "https://help.fireant.vn/fireant-for-web/bo-cuc-layout/cac-bo-cuc-mac-dinh/tim-kiem-co-hoi-voi-bieu-do",
+                  "has_readme": true
+                },
+                {
+                  "slug": "bieu-do",
+                  "title": "Biểu đồ dạng Tab",
+                  "path": "fireant-for-web/bo-cuc-layout/cac-bo-cuc-mac-dinh/bieu-do",
+                  "source": "https://help.fireant.vn/fireant-for-web/bo-cuc-layout/cac-bo-cuc-mac-dinh/bieu-do",
+                  "has_readme": true
+                },
+                {
+                  "slug": "bieu-do-2-ma-doc-lap",
+                  "title": "Biểu đồ 2 mã độc lập",
+                  "path": "fireant-for-web/bo-cuc-layout/cac-bo-cuc-mac-dinh/bieu-do-2-ma-doc-lap",
+                  "source": "https://help.fireant.vn/fireant-for-web/bo-cuc-layout/cac-bo-cuc-mac-dinh/bieu-do-2-ma-doc-lap",
+                  "has_readme": true
+                },
+                {
+                  "slug": "bieu-do-1-ma-2-khung-gio",
+                  "title": "Biểu đồ 1 mã 2 khung giờ",
+                  "path": "fireant-for-web/bo-cuc-layout/cac-bo-cuc-mac-dinh/bieu-do-1-ma-2-khung-gio",
+                  "source": "https://help.fireant.vn/fireant-for-web/bo-cuc-layout/cac-bo-cuc-mac-dinh/bieu-do-1-ma-2-khung-gio",
+                  "has_readme": true
+                },
+                {
+                  "slug": "bieu-do-4-ma-doc-lap",
+                  "title": "Biểu đồ 4 mã độc lập",
+                  "path": "fireant-for-web/bo-cuc-layout/cac-bo-cuc-mac-dinh/bieu-do-4-ma-doc-lap",
+                  "source": "https://help.fireant.vn/fireant-for-web/bo-cuc-layout/cac-bo-cuc-mac-dinh/bieu-do-4-ma-doc-lap",
+                  "has_readme": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "tim-kiem-co-hoi",
+          "title": "CÁC KHỐI CHỨC NĂNG",
+          "path": "fireant-for-web/tim-kiem-co-hoi",
+          "source": "https://help.fireant.vn/fireant-for-web/tim-kiem-co-hoi",
+          "has_readme": true,
+          "children": [
+            {
+              "slug": "bieu-do-ky-thuat",
+              "title": "Biểu đồ kỹ thuật",
+              "path": "fireant-for-web/tim-kiem-co-hoi/bieu-do-ky-thuat",
+              "source": "https://help.fireant.vn/fireant-for-web/tim-kiem-co-hoi/bieu-do-ky-thuat",
+              "has_readme": true
+            },
+            {
+              "slug": "bang-gia",
+              "title": "Bảng giá",
+              "path": "fireant-for-web/tim-kiem-co-hoi/bang-gia",
+              "source": "https://help.fireant.vn/fireant-for-web/tim-kiem-co-hoi/bang-gia",
+              "has_readme": true
+            },
+            {
+              "slug": "loc-co-phieu-thoi-gian-thuc",
+              "title": "Lọc cổ phiếu thời gian thực",
+              "path": "fireant-for-web/tim-kiem-co-hoi/loc-co-phieu-thoi-gian-thuc",
+              "source": "https://help.fireant.vn/fireant-for-web/tim-kiem-co-hoi/loc-co-phieu-thoi-gian-thuc",
+              "has_readme": true
+            },
+            {
+              "slug": "bien-dong-thi-truong",
+              "title": "Biến động thị trường",
+              "path": "fireant-for-web/tim-kiem-co-hoi/bien-dong-thi-truong",
+              "source": "https://help.fireant.vn/fireant-for-web/tim-kiem-co-hoi/bien-dong-thi-truong",
+              "has_readme": true
+            },
+            {
+              "slug": "nganh-nghe",
+              "title": "Ngành nghề",
+              "path": "fireant-for-web/tim-kiem-co-hoi/nganh-nghe",
+              "source": "https://help.fireant.vn/fireant-for-web/tim-kiem-co-hoi/nganh-nghe",
+              "has_readme": true
+            },
+            {
+              "slug": "chi-so-chung-khoan",
+              "title": "Chỉ số chứng khoán",
+              "path": "fireant-for-web/tim-kiem-co-hoi/chi-so-chung-khoan",
+              "source": "https://help.fireant.vn/fireant-for-web/tim-kiem-co-hoi/chi-so-chung-khoan",
+              "has_readme": true
+            },
+            {
+              "slug": "bien-dong-co-phieu",
+              "title": "Biến động cổ phiếu",
+              "path": "fireant-for-web/tim-kiem-co-hoi/bien-dong-co-phieu",
+              "source": "https://help.fireant.vn/fireant-for-web/tim-kiem-co-hoi/bien-dong-co-phieu",
+              "has_readme": true
+            },
+            {
+              "slug": "chung-khoan-phai-sinh",
+              "title": "Chứng khoán phái sinh",
+              "path": "fireant-for-web/tim-kiem-co-hoi/chung-khoan-phai-sinh",
+              "source": "https://help.fireant.vn/fireant-for-web/tim-kiem-co-hoi/chung-khoan-phai-sinh",
+              "has_readme": true
+            },
+            {
+              "slug": "canh-bao",
+              "title": "Cảnh báo tín hiệu",
+              "path": "fireant-for-web/tim-kiem-co-hoi/canh-bao",
+              "source": "https://help.fireant.vn/fireant-for-web/tim-kiem-co-hoi/canh-bao",
+              "has_readme": true
+            }
+          ]
+        },
+        {
+          "slug": "watchlists",
+          "title": "Danh sách theo dõi (Watchlists)",
+          "path": "fireant-for-web/watchlists",
+          "source": "https://help.fireant.vn/fireant-for-web/watchlists",
+          "has_readme": true,
+          "children": [
+            {
+              "slug": "vai-tro-cua-watchlist",
+              "title": "Vai trò của Watchlist",
+              "path": "fireant-for-web/watchlists/vai-tro-cua-watchlist",
+              "source": "https://help.fireant.vn/fireant-for-web/watchlists/vai-tro-cua-watchlist",
+              "has_readme": true
+            },
+            {
+              "slug": "tao-va-su-dung-watchlist",
+              "title": "Tạo và sử dụng Watchlist",
+              "path": "fireant-for-web/watchlists/tao-va-su-dung-watchlist",
+              "source": "https://help.fireant.vn/fireant-for-web/watchlists/tao-va-su-dung-watchlist",
+              "has_readme": true
+            },
+            {
+              "slug": "video-huong-dan-su-dung-watchlist",
+              "title": "Video hướng dẫn sử dụng Watchlist",
+              "path": "fireant-for-web/watchlists/video-huong-dan-su-dung-watchlist",
+              "source": "https://help.fireant.vn/fireant-for-web/watchlists/video-huong-dan-su-dung-watchlist",
+              "has_readme": true
+            }
+          ]
+        },
+        {
+          "slug": "phan-tich-ky-thuat",
+          "title": "PHÂN TÍCH KỸ THUẬT",
+          "path": "fireant-for-web/phan-tich-ky-thuat",
+          "source": "https://help.fireant.vn/fireant-for-web/phan-tich-ky-thuat",
+          "has_readme": true,
+          "children": [
+            {
+              "slug": "gioi-thieu-he-thong-phan-tich-ky-thuat",
+              "title": "Giới thiệu hệ thống phân tích kỹ thuật",
+              "path": "fireant-for-web/phan-tich-ky-thuat/gioi-thieu-he-thong-phan-tich-ky-thuat",
+              "source": "https://help.fireant.vn/fireant-for-web/phan-tich-ky-thuat/gioi-thieu-he-thong-phan-tich-ky-thuat",
+              "has_readme": true
+            },
+            {
+              "slug": "cac-cong-cu-ve",
+              "title": "Các công cụ vẽ",
+              "path": "fireant-for-web/phan-tich-ky-thuat/cac-cong-cu-ve",
+              "source": "https://help.fireant.vn/fireant-for-web/phan-tich-ky-thuat/cac-cong-cu-ve",
+              "has_readme": true
+            },
+            {
+              "slug": "so-sanh-ma-co-phieu",
+              "title": "So sánh mã cổ phiếu",
+              "path": "fireant-for-web/phan-tich-ky-thuat/so-sanh-ma-co-phieu",
+              "source": "https://help.fireant.vn/fireant-for-web/phan-tich-ky-thuat/so-sanh-ma-co-phieu",
+              "has_readme": true
+            },
+            {
+              "slug": "luu-va-nap-bieu-mau",
+              "title": "Lưu và nạp biểu mẫu",
+              "path": "fireant-for-web/phan-tich-ky-thuat/luu-va-nap-bieu-mau",
+              "source": "https://help.fireant.vn/fireant-for-web/phan-tich-ky-thuat/luu-va-nap-bieu-mau",
+              "has_readme": true
+            },
+            {
+              "slug": "chia-se-bieu-do",
+              "title": "Đăng bài viết với biểu đồ",
+              "path": "fireant-for-web/phan-tich-ky-thuat/chia-se-bieu-do",
+              "source": "https://help.fireant.vn/fireant-for-web/phan-tich-ky-thuat/chia-se-bieu-do",
+              "has_readme": true
+            },
+            {
+              "slug": "cac-chi-bao-ky-thuat",
+              "title": "Các chỉ báo kỹ thuật",
+              "path": "fireant-for-web/phan-tich-ky-thuat/cac-chi-bao-ky-thuat",
+              "source": "https://help.fireant.vn/fireant-for-web/phan-tich-ky-thuat/cac-chi-bao-ky-thuat",
+              "has_readme": true
+            }
+          ]
+        },
+        {
+          "slug": "thong-tin-co-phieu",
+          "title": "Thông tin cổ phiếu",
+          "path": "fireant-for-web/thong-tin-co-phieu",
+          "source": "https://help.fireant.vn/fireant-for-web/thong-tin-co-phieu",
+          "has_readme": true,
+          "children": [
+            {
+              "slug": "truy-cap-thong-tin-co-phieu",
+              "title": "Truy cập thông tin cổ phiếu",
+              "path": "fireant-for-web/thong-tin-co-phieu/truy-cap-thong-tin-co-phieu",
+              "source": "https://help.fireant.vn/fireant-for-web/thong-tin-co-phieu/truy-cap-thong-tin-co-phieu",
+              "has_readme": true
+            },
+            {
+              "slug": "thong-tin-tong-quan",
+              "title": "Thông tin tổng quan",
+              "path": "fireant-for-web/thong-tin-co-phieu/thong-tin-tong-quan",
+              "source": "https://help.fireant.vn/fireant-for-web/thong-tin-co-phieu/thong-tin-tong-quan",
+              "has_readme": true
+            },
+            {
+              "slug": "tin-tuc",
+              "title": "Tin tức",
+              "path": "fireant-for-web/thong-tin-co-phieu/tin-tuc",
+              "source": "https://help.fireant.vn/fireant-for-web/thong-tin-co-phieu/tin-tuc",
+              "has_readme": true
+            },
+            {
+              "slug": "cong-dong",
+              "title": "Cộng đồng",
+              "path": "fireant-for-web/thong-tin-co-phieu/cong-dong",
+              "source": "https://help.fireant.vn/fireant-for-web/thong-tin-co-phieu/cong-dong",
+              "has_readme": true
+            },
+            {
+              "slug": "bieu-do-ky-thuat",
+              "title": "Biểu đồ kỹ thuật",
+              "path": "fireant-for-web/thong-tin-co-phieu/bieu-do-ky-thuat",
+              "source": "https://help.fireant.vn/fireant-for-web/thong-tin-co-phieu/bieu-do-ky-thuat",
+              "has_readme": true
+            },
+            {
+              "slug": "ho-so-cong-ty",
+              "title": "Hồ sơ công ty",
+              "path": "fireant-for-web/thong-tin-co-phieu/ho-so-cong-ty",
+              "source": "https://help.fireant.vn/fireant-for-web/thong-tin-co-phieu/ho-so-cong-ty",
+              "has_readme": true
+            },
+            {
+              "slug": "co-dong",
+              "title": "Cổ đông",
+              "path": "fireant-for-web/thong-tin-co-phieu/co-dong",
+              "source": "https://help.fireant.vn/fireant-for-web/thong-tin-co-phieu/co-dong",
+              "has_readme": true
+            },
+            {
+              "slug": "co-tuc",
+              "title": "Cổ tức",
+              "path": "fireant-for-web/thong-tin-co-phieu/co-tuc",
+              "source": "https://help.fireant.vn/fireant-for-web/thong-tin-co-phieu/co-tuc",
+              "has_readme": true
+            },
+            {
+              "slug": "tai-chinh",
+              "title": "Tài chính",
+              "path": "fireant-for-web/thong-tin-co-phieu/tai-chinh",
+              "source": "https://help.fireant.vn/fireant-for-web/thong-tin-co-phieu/tai-chinh",
+              "has_readme": true
+            },
+            {
+              "slug": "gia-qua-khu",
+              "title": "Giá quá khứ",
+              "path": "fireant-for-web/thong-tin-co-phieu/gia-qua-khu",
+              "source": "https://help.fireant.vn/fireant-for-web/thong-tin-co-phieu/gia-qua-khu",
+              "has_readme": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "fireant-for-mobile",
+      "title": "Tổng quan",
+      "path": "fireant-for-mobile",
+      "source": "https://help.fireant.vn/fireant-for-mobile",
+      "has_readme": true,
+      "children": [
+        {
+          "slug": "cai-dat",
+          "title": "Cài đặt",
+          "path": "fireant-for-mobile/cai-dat",
+          "source": "https://help.fireant.vn/fireant-for-mobile/cai-dat",
+          "has_readme": true,
+          "children": [
+            {
+              "slug": "tao-va-thiet-lap-tai-khoan-su-dung",
+              "title": "Cài đặt và tạo tài khoản",
+              "path": "fireant-for-mobile/cai-dat/tao-va-thiet-lap-tai-khoan-su-dung",
+              "source": "https://help.fireant.vn/fireant-for-mobile/cai-dat/tao-va-thiet-lap-tai-khoan-su-dung",
+              "has_readme": true
+            },
+            {
+              "slug": "thiet-lap",
+              "title": "Thiết lập",
+              "path": "fireant-for-mobile/cai-dat/thiet-lap",
+              "source": "https://help.fireant.vn/fireant-for-mobile/cai-dat/thiet-lap",
+              "has_readme": true
+            }
+          ]
+        },
+        {
+          "slug": "du-lieu-va-cong-cu",
+          "title": "Dữ liệu và công cụ",
+          "path": "fireant-for-mobile/du-lieu-va-cong-cu",
+          "source": "https://help.fireant.vn/fireant-for-mobile/du-lieu-va-cong-cu",
+          "has_readme": true,
+          "children": [
+            {
+              "slug": "thi-truong",
+              "title": "Thị trường",
+              "path": "fireant-for-mobile/du-lieu-va-cong-cu/thi-truong",
+              "source": "https://help.fireant.vn/fireant-for-mobile/du-lieu-va-cong-cu/thi-truong",
+              "has_readme": true
+            },
+            {
+              "slug": "tin-tuc",
+              "title": "Tin tức",
+              "path": "fireant-for-mobile/du-lieu-va-cong-cu/tin-tuc",
+              "source": "https://help.fireant.vn/fireant-for-mobile/du-lieu-va-cong-cu/tin-tuc",
+              "has_readme": true
+            },
+            {
+              "slug": "doanh-nhan",
+              "title": "Doanh nhân",
+              "path": "fireant-for-mobile/du-lieu-va-cong-cu/doanh-nhan",
+              "source": "https://help.fireant.vn/fireant-for-mobile/du-lieu-va-cong-cu/doanh-nhan",
+              "has_readme": true
+            },
+            {
+              "slug": "bang-gia",
+              "title": "Bảng giá",
+              "path": "fireant-for-mobile/du-lieu-va-cong-cu/bang-gia",
+              "source": "https://help.fireant.vn/fireant-for-mobile/du-lieu-va-cong-cu/bang-gia",
+              "has_readme": true
+            },
+            {
+              "slug": "bieu-do-phan-tich-ky-thuat",
+              "title": "Biểu đồ/ Phân tích kỹ thuật",
+              "path": "fireant-for-mobile/du-lieu-va-cong-cu/bieu-do-phan-tich-ky-thuat",
+              "source": "https://help.fireant.vn/fireant-for-mobile/du-lieu-va-cong-cu/bieu-do-phan-tich-ky-thuat",
+              "has_readme": true
+            },
+            {
+              "slug": "loc-co-phieu",
+              "title": "Lọc cổ phiếu",
+              "path": "fireant-for-mobile/du-lieu-va-cong-cu/loc-co-phieu",
+              "source": "https://help.fireant.vn/fireant-for-mobile/du-lieu-va-cong-cu/loc-co-phieu",
+              "has_readme": true
+            },
+            {
+              "slug": "watchlist",
+              "title": "Watchlist",
+              "path": "fireant-for-mobile/du-lieu-va-cong-cu/watchlist",
+              "source": "https://help.fireant.vn/fireant-for-mobile/du-lieu-va-cong-cu/watchlist",
+              "has_readme": true
+            }
+          ]
+        },
+        {
+          "slug": "danh-gia-va-gioi-thieu-ban-be",
+          "title": "Đánh giá và giới thiệu bạn bè",
+          "path": "fireant-for-mobile/danh-gia-va-gioi-thieu-ban-be",
+          "source": "https://help.fireant.vn/fireant-for-mobile/danh-gia-va-gioi-thieu-ban-be",
+          "has_readme": true,
+          "children": [
+            {
+              "slug": "binh-chon",
+              "title": "Bình chọn",
+              "path": "fireant-for-mobile/danh-gia-va-gioi-thieu-ban-be/binh-chon",
+              "source": "https://help.fireant.vn/fireant-for-mobile/danh-gia-va-gioi-thieu-ban-be/binh-chon",
+              "has_readme": true
+            },
+            {
+              "slug": "moi-ban-be-ket-noi",
+              "title": "Mời bạn bè kết nối",
+              "path": "fireant-for-mobile/danh-gia-va-gioi-thieu-ban-be/moi-ban-be-ket-noi",
+              "source": "https://help.fireant.vn/fireant-for-mobile/danh-gia-va-gioi-thieu-ban-be/moi-ban-be-ket-noi",
+              "has_readme": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "fireant-for-excel",
+      "title": "Tổng quan",
+      "path": "fireant-for-excel",
+      "source": "https://help.fireant.vn/fireant-for-excel",
+      "has_readme": true,
+      "children": [
+        {
+          "slug": "cac-ham-lay-du-lieu-intraday",
+          "title": "Các hàm lấy dữ liệu thời gian thực",
+          "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday",
+          "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday",
+          "has_readme": true,
+          "children": [
+            {
+              "slug": "nhom-ham-fa.intraday",
+              "title": "Lớp hàm FA.Intraday",
+              "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.intraday",
+              "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.intraday",
+              "has_readme": true,
+              "children": [
+                {
+                  "slug": "fa.intraday.date",
+                  "title": "FA.Intraday.Date",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.intraday/fa.intraday.date",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.intraday/fa.intraday.date",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.intraday.price",
+                  "title": "FA.Intraday.Price",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.intraday/fa.intraday.price",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.intraday/fa.intraday.price",
+                  "has_readme": true
+                },
+                {
+                  "slug": "untitled",
+                  "title": "FA.Intraday.Side",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.intraday/untitled",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.intraday/untitled",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.intraday.totalvolume",
+                  "title": "FA.Intraday.TotalVolume",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.intraday/fa.intraday.totalvolume",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.intraday/fa.intraday.totalvolume",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.intraday.volume",
+                  "title": "FA.Intraday.Volume",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.intraday/fa.intraday.volume",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.intraday/fa.intraday.volume",
+                  "has_readme": true
+                }
+              ]
+            },
+            {
+              "slug": "nhom-ham-fa.quote",
+              "title": "Lớp hàm FA.Quote",
+              "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote",
+              "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote",
+              "has_readme": true,
+              "children": [
+                {
+                  "slug": "fa.quote.buycount",
+                  "title": "FA.Quote.BuyCount",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.buycount",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.buycount",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.buyforeignquantity",
+                  "title": "FA.Quote.BuyForeignQuantity",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.buyforeignquantity",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.buyforeignquantity",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.buyforeignvalue",
+                  "title": "FA.Quote.BuyForeignValue",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.buyforeignvalue",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.buyforeignvalue",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.buyquantity",
+                  "title": "FA.Quote.BuyQuantity",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.buyquantity",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.buyquantity",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.currentforeignroom",
+                  "title": "FA.Quote.CurrentForeignRoom",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.currentforeignroom",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.currentforeignroom",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.datetime",
+                  "title": "FA.Quote.DateTime",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.datetime",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.datetime",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.name",
+                  "title": "FA.Quote.Name",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.name",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.name",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.priceask1",
+                  "title": "FA.Quote.PriceAsk1",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceask1",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceask1",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.priceask2",
+                  "title": "FA.Quote.PriceAsk2",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceask2",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceask2",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.priceask3",
+                  "title": "FA.Quote.PriceAsk3",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceask3",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceask3",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.priceaverage",
+                  "title": "FA.Quote.PriceAverage",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceaverage",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceaverage",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.pricebasic",
+                  "title": "FA.Quote.PriceBasic",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricebasic",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricebasic",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.pricebid1",
+                  "title": "FA.Quote.PriceBid1",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricebid1",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricebid1",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.pricebid2",
+                  "title": "FA.Quote.PriceBid2",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricebid2",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricebid2",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.pricebid3",
+                  "title": "FA.Quote.PriceBid3",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricebid3",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricebid3",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.priceceiling",
+                  "title": "FA.Quote.PriceCeiling",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceceiling",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceceiling",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.pricechange",
+                  "title": "FA.Quote.PriceChange",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricechange",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricechange",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.priceclose",
+                  "title": "FA.Quote.PriceClose",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceclose",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceclose",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.pricefloor",
+                  "title": "FA.Quote.PriceFloor",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricefloor",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricefloor",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.pricehigh",
+                  "title": "FA.Quote.PriceHigh",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricehigh",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricehigh",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.pricelast",
+                  "title": "FA.Quote.PriceLast",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricelast",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricelast",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.pricelow",
+                  "title": "FA.Quote.PriceLow",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricelow",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.pricelow",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.priceopen",
+                  "title": "FA.Quote.PriceOpen",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceopen",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.priceopen",
+                  "has_readme": true
+                },
+                {
+                  "slug": "untitled-3",
+                  "title": "FA.Quote.PricePercentChange",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/untitled-3",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/untitled-3",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.quantityask1",
+                  "title": "FA.Quote.QuantityAsk1",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.quantityask1",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.quantityask1",
+                  "has_readme": true
+                },
+                {
+                  "slug": "untitled-1",
+                  "title": "FA.Quote.QuantityAsk2",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/untitled-1",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/untitled-1",
+                  "has_readme": true
+                },
+                {
+                  "slug": "untitled",
+                  "title": "FA.Quote.QuantityAsk3",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/untitled",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/untitled",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.quantitybid1",
+                  "title": "FA.Quote.QuantityBid1",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.quantitybid1",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.quantitybid1",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.quantitybid2",
+                  "title": "FA.Quote.QuantityBid2",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.quantitybid2",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.quantitybid2",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.quantitybid3",
+                  "title": "FA.Quote.QuantityBid3",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.quantitybid3",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.quantitybid3",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.sellcount",
+                  "title": "FA.Quote.SellCount",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.sellcount",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.sellcount",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.sellforeignquantity",
+                  "title": "FA.Quote.SellForeignQuantity",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.sellforeignquantity",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.sellforeignquantity",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.sellforeignvalue",
+                  "title": "FA.Quote.SellForeignValue",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.sellforeignvalue",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.sellforeignvalue",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.sellquantity",
+                  "title": "FA.Quote.SellQuantity",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.sellquantity",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.sellquantity",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.time",
+                  "title": "FA.Quote.Time",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.time",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.time",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.totalactivebuyvolume",
+                  "title": "FA.Quote.TotalActiveBuyVolume",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.totalactivebuyvolume",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.totalactivebuyvolume",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.totalactivesellvolume",
+                  "title": "FA.Quote.TotalActiveSellVolume",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.totalactivesellvolume",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.totalactivesellvolume",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.totaltrade",
+                  "title": "FA.Quote.TotalTrade",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.totaltrade",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.totaltrade",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.totalvalue",
+                  "title": "FA.Quote.TotalValue",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.totalvalue",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.totalvalue",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.totalvolume",
+                  "title": "FA.Quote.TotalVolume",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.totalvolume",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.totalvolume",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.quote.volume",
+                  "title": "FA.Quote.Volume",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.volume",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.quote/fa.quote.volume",
+                  "has_readme": true
+                }
+              ]
+            },
+            {
+              "slug": "nhom-ham-fa.market",
+              "title": "Lớp hàm FA.Market",
+              "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market",
+              "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market",
+              "has_readme": true,
+              "children": [
+                {
+                  "slug": "fa.market.advances",
+                  "title": "FA.Market.Advances",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.advances",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.advances",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.market.buyforeignquantity",
+                  "title": "FA.Market.BuyForeignQuantity",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.buyforeignquantity",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.buyforeignquantity",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.market.buyforeignvalue",
+                  "title": "FA.Market.BuyForeignValue",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.buyforeignvalue",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.buyforeignvalue",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.market.declines",
+                  "title": "FA.Market.Declines",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.declines",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.declines",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.market.indexbasic",
+                  "title": "FA.Market.IndexBasic",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.indexbasic",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.indexbasic",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.market.indexcurrent",
+                  "title": "FA.Market.IndexCurrent",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.indexcurrent",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.indexcurrent",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.market.indexhigh",
+                  "title": "FA.Market.IndexHigh",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.indexhigh",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.indexhigh",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.market.indexlow",
+                  "title": "FA.Market.IndexLow",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.indexlow",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.indexlow",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.market.minutes",
+                  "title": "FA.Market.Minutes",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.minutes",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.minutes",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.market.ptvalue",
+                  "title": "FA.Market.PTValue",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.ptvalue",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.ptvalue",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.market.ptvolume",
+                  "title": "FA.Market.PTVolume",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.ptvolume",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.ptvolume",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.market.sellforeignquantity",
+                  "title": "FA.Market.SellForeignQuantity",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.sellforeignquantity",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.sellforeignquantity",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.market.sellforeignvalue",
+                  "title": "FA.Market.SellForeignValue",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.sellforeignvalue",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.sellforeignvalue",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.market.time",
+                  "title": "FA.Market.Time",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.time",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.time",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.market.totaltrade",
+                  "title": "FA.Market.TotalTrade",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.totaltrade",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.totaltrade",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.market.totalvalue",
+                  "title": "FA.Market.TotalValue",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.totalvalue",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.totalvalue",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.market.totalvolume",
+                  "title": "FA.Market.TotalVolume",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.totalvolume",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.totalvolume",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.market.traded",
+                  "title": "FA.Market.Traded",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.traded",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.traded",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.market.unchange",
+                  "title": "FA.Market.Unchange",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.unchange",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.unchange",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.market.untraded",
+                  "title": "FA.Market.Untraded",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.untraded",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-intraday/nhom-ham-fa.market/fa.market.untraded",
+                  "has_readme": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "cac-ham-lay-du-lieu-giao-dich-qua-khu",
+          "title": "CÁC HÀM LẤY DỮ LIỆU GIAO DỊCH QUÁ KHỨ",
+          "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu",
+          "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu",
+          "has_readme": true,
+          "children": [
+            {
+              "slug": "nhom-ham-fa.historical",
+              "title": "Lớp hàm FA.Historical",
+              "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical",
+              "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical",
+              "has_readme": true,
+              "children": [
+                {
+                  "slug": "fa.historical.adjratio",
+                  "title": "FA.Historical.AdjRatio",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.adjratio",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.adjratio",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.average",
+                  "title": "FA.Historical.Average",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.average",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.average",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.basic",
+                  "title": "FA.Historical.Basic",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.basic",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.basic",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.buycount",
+                  "title": "FA.Historical.BuyCount",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.buycount",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.buycount",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.buyforeignquantity",
+                  "title": "FA.Historical.BuyForeignQuantity",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.buyforeignquantity",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.buyforeignquantity",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.buyforeignvalue",
+                  "title": "FA.Historical.BuyForeignValue",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.buyforeignvalue",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.buyforeignvalue",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.buyquantity",
+                  "title": "FA.Historical.BuyQuantity",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.buyquantity",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.buyquantity",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.close",
+                  "title": "FA.Historical.Close",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.close",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.close",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.currentforeignroom",
+                  "title": "FA.Historical.CurrentForeignRoom",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.currentforeignroom",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.currentforeignroom",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.date",
+                  "title": "FA.Historical.Date",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.date",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.date",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.dealvolume",
+                  "title": "FA.Historical.DealVolume",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.dealvolume",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.dealvolume",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.high",
+                  "title": "FA.Historical.High",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.high",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.high",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.low",
+                  "title": "FA.Historical.Low",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.low",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.low",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.marketcap",
+                  "title": "FA.Historical.MarketCap",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.marketcap",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.marketcap",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.open",
+                  "title": "FA.Historical.Open",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.open",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.open",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.putthroughvalue",
+                  "title": "FA.Historical.PutthroughValue",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.putthroughvalue",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.putthroughvalue",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.putthroughvolume",
+                  "title": "FA.Historical.PutthroughVolume",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.putthroughvolume",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.putthroughvolume",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.sellcount",
+                  "title": "FA.Historical.SellCount",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.sellcount",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.sellcount",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.sellforeignquantity",
+                  "title": "FA.Historical.SellForeignQuantity",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.sellforeignquantity",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.sellforeignquantity",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.sellforeignvalue",
+                  "title": "FA.Historical.SellForeignValue",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.sellforeignvalue",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.sellforeignvalue",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.sellquantity",
+                  "title": "FA.Historical.SellQuantity",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.sellquantity",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.sellquantity",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.shares",
+                  "title": "FA.Historical.Shares",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.shares",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.shares",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.totalvalue",
+                  "title": "FA.Historical.TotalValue",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.totalvalue",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.totalvalue",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.historical.totalvolume",
+                  "title": "FA.Historical.TotalVolume",
+                  "path": "fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.totalvolume",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-du-lieu-giao-dich-qua-khu/nhom-ham-fa.historical/fa.historical.totalvolume",
+                  "has_readme": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "cac-ham-lay-thong-tin-doanh-nghiep",
+          "title": "CÁC HÀM LẤY THÔNG TIN DOANH NGHIỆP",
+          "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep",
+          "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep",
+          "has_readme": true,
+          "children": [
+            {
+              "slug": "nhom-ham-fa.stock",
+              "title": "Lớp hàm FA.Stock",
+              "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock",
+              "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock",
+              "has_readme": true,
+              "children": [
+                {
+                  "slug": "fa.stock.allstocksymbols",
+                  "title": "FA.Stock.AllStockSymbols",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.allstocksymbols",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.allstocksymbols",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.avgprice10d",
+                  "title": "FA.Stock.AvgPrice10d",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.avgprice10d",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.avgprice10d",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.avgprice20d",
+                  "title": "FA.Stock.AvgPrice20d",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.avgprice20d",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.avgprice20d",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.avgprice5d",
+                  "title": "FA.Stock.AvgPrice5d",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.avgprice5d",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.avgprice5d",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.avgvolume10d",
+                  "title": "FA.Stock.AvgVolume10d",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.avgvolume10d",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.avgvolume10d",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.avgvolume20d",
+                  "title": "FA.Stock.AvgVolume20d",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.avgvolume20d",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.avgvolume20d",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.avgvolume5d",
+                  "title": "FA.Stock.AvgVolume5d",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.avgvolume5d",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.avgvolume5d",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.buyquantity1m",
+                  "title": "FA.Stock.BuyQuantity1m",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity1m",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity1m",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.buyquantity1w",
+                  "title": "FA.Stock.BuyQuantity1w",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity1w",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity1w",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.buyquantity1y",
+                  "title": "FA.Stock.BuyQuantity1y",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity1y",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity1y",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.buyquantity2y",
+                  "title": "FA.Stock.BuyQuantity2y",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity2y",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity2y",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.buyquantity3m",
+                  "title": "FA.Stock.BuyQuantity3m",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity3m",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity3m",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.buyquantity3y",
+                  "title": "FA.Stock.BuyQuantity3y",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity3y",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity3y",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.buyquantity5y",
+                  "title": "FA.Stock.BuyQuantity5y",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity5y",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity5y",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.buyquantity6m",
+                  "title": "FA.Stock.BuyQuantity6m",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity6m",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity6m",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.dividendhistory",
+                  "title": "FA.Stock.DividendHistory",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.dividendhistory",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.dividendhistory",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.dividendincash_03yravg",
+                  "title": "FA.Stock.DividendInCash\\_03YrAvg",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.dividendincash_03yravg",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.dividendincash_03yravg",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.dividendinshares_03yravg",
+                  "title": "FA.Stock.DividendInShares\\_03YrAvg",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.dividendinshares_03yravg",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.dividendinshares_03yravg",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.exchange",
+                  "title": "FA.Stock.Exchange",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.exchange",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.exchange",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.freeshares",
+                  "title": "FA.Stock.FreeShares",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.freeshares",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.freeshares",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.highprice1m",
+                  "title": "FA.Stock.HighPrice1m",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice1m",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice1m",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.highprice1w",
+                  "title": "FA.Stock.HighPrice1w",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice1w",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice1w",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.highprice1y",
+                  "title": "FA.Stock.HighPrice1y",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice1y",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice1y",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.highprice2y",
+                  "title": "FA.Stock.HighPrice2y",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice2y",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice2y",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.highprice3m",
+                  "title": "FA.Stock.HighPrice3m",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice3m",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice3m",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.highprice3y",
+                  "title": "FA.Stock.HighPrice3y",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice3y",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice3y",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.highprice5y",
+                  "title": "FA.Stock.HighPrice5y",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice5y",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice5y",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.highprice6m",
+                  "title": "FA.Stock.HighPrice6m",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice6m",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice6m",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.industrycode",
+                  "title": "FA.Stock.IndustryCode",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.industrycode",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.industrycode",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.lastcloseddate",
+                  "title": "FA.Stock.LastClosedDate",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.lastcloseddate",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.lastcloseddate",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.lowprice1m",
+                  "title": "FA.Stock.LowPrice1m",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.lowprice1m",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.lowprice1m",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.lowprice1w",
+                  "title": "FA.Stock.LowPrice1w",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.lowprice1w",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.lowprice1w",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.lowprice1y",
+                  "title": "FA.Stock.LowPrice1y",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.lowprice1y",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.lowprice1y",
+                  "has_readme": true
+                },
+                {
+                  "slug": "untitled-6",
+                  "title": "FA.Stock.LowPrice2y",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/untitled-6",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/untitled-6",
+                  "has_readme": true
+                },
+                {
+                  "slug": "untitled-7",
+                  "title": "FA.Stock.LowPrice3m",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/untitled-7",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/untitled-7",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.lowprice3y",
+                  "title": "FA.Stock.LowPrice3y",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.lowprice3y",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.lowprice3y",
+                  "has_readme": true
+                },
+                {
+                  "slug": "untitled-8",
+                  "title": "FA.Stock.LowPrice5y",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/untitled-8",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/untitled-8",
+                  "has_readme": true
+                },
+                {
+                  "slug": "untitled-9",
+                  "title": "FA.Stock.LowPrice6m",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/untitled-9",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/untitled-9",
+                  "has_readme": true
+                },
+                {
+                  "slug": "untitled-10",
+                  "title": "FA.Stock.MarketCap",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/untitled-10",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/untitled-10",
+                  "has_readme": true
+                },
+                {
+                  "slug": "untitled",
+                  "title": "FA.Stock.Name",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/untitled",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/untitled",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.pricechange1m",
+                  "title": "FA.Stock.PriceChange1m",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange1m",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange1m",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.pricechange1w",
+                  "title": "FA.Stock.PriceChange1w",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange1w",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange1w",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.pricechange1y",
+                  "title": "FA.Stock.PriceChange1y",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange1y",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange1y",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.pricechange2y",
+                  "title": "FA.Stock.PriceChange2y",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange2y",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange2y",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.pricechange3m",
+                  "title": "FA.Stock.PriceChange3m",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange3m",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange3m",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.pricechange3y",
+                  "title": "FA.Stock.PriceChange3y",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange3y",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange3y",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.pricechange5y",
+                  "title": "FA.Stock.PriceChange5y",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange5y",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange5y",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.pricechange6m",
+                  "title": "FA.Stock.PriceChange6m",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange6m",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange6m",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.sellquantity1m",
+                  "title": "FA.Stock.SellQuantity1m",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity1m",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity1m",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.sellquantity1w",
+                  "title": "FA.Stock.SellQuantity1w",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity1w",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity1w",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.sellquantity1y",
+                  "title": "FA.Stock.SellQuantity1y",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity1y",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity1y",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.sellquantity2y",
+                  "title": "FA.Stock.SellQuantity2y",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity2y",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity2y",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.sellquantity3m",
+                  "title": "FA.Stock.SellQuantity3m",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity3m",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity3m",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.sellquantity3y",
+                  "title": "FA.Stock.SellQuantity3y",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity3y",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity3y",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.sellquantity5y",
+                  "title": "FA.Stock.SellQuantity5y",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity5y",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity5y",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.sellquantity6m",
+                  "title": "FA.Stock.SellQuantity6m",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity6m",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity6m",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.sharesoutstanding",
+                  "title": "FA.Stock.SharesOutstanding",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sharesoutstanding",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sharesoutstanding",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.stocksymbolsbyexchange",
+                  "title": "FA.Stock.StockSymbolsByExchange",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.stocksymbolsbyexchange",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.stocksymbolsbyexchange",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.stock.stocksymbolsbyindustry",
+                  "title": "FA.Stock.StockSymbolsByIndustry",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.stocksymbolsbyindustry",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.stocksymbolsbyindustry",
+                  "has_readme": true
+                }
+              ]
+            },
+            {
+              "slug": "nhom-ham-fa.industry",
+              "title": "Lớp hàm FA.Industry",
+              "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.industry",
+              "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.industry",
+              "has_readme": true,
+              "children": [
+                {
+                  "slug": "fa.industry.allindustries",
+                  "title": "FA.Industry.AllIndustries",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.industry/fa.industry.allindustries",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.industry/fa.industry.allindustries",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.industry.industrylevel",
+                  "title": "FA.Industry.IndustryLevel",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.industry/fa.industry.industrylevel",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.industry/fa.industry.industrylevel",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.industry.industryname",
+                  "title": "FA.Industry.IndustryName",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.industry/fa.industry.industryname",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.industry/fa.industry.industryname",
+                  "has_readme": true
+                }
+              ]
+            },
+            {
+              "slug": "nhom-ham-fa.company",
+              "title": "Lớp hàm FA.Company",
+              "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company",
+              "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company",
+              "has_readme": true,
+              "children": [
+                {
+                  "slug": "fa.company.branches",
+                  "title": "FA.Company.Branches",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.branches",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.branches",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.businessareas",
+                  "title": "FA.Company.BusinessAreas",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.businessareas",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.businessareas",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.companyname",
+                  "title": "FA.Company.CompanyName",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.companyname",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.companyname",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.companytype",
+                  "title": "FA.Company.CompanyType",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.companytype",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.companytype",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.dateofissue",
+                  "title": "FA.Company.DateOfIssue",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.dateofissue",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.dateofissue",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.email",
+                  "title": "FA.Company.Email",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.email",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.email",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.employees",
+                  "title": "FA.Company.Employees",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.employees",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.employees",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.establishmentdate",
+                  "title": "FA.Company.EstablishmentDate",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.establishmentdate",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.establishmentdate",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.exchange",
+                  "title": "FA.Company.Exchange",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.exchange",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.exchange",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.fax",
+                  "title": "FA.Company.Fax",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.fax",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.fax",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.foreignownership",
+                  "title": "FA.Company.ForeignOwnership",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.foreignownership",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.foreignownership",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.headquarter",
+                  "title": "FA.Company.HeadQuarter",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.headquarter",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.headquarter",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.history",
+                  "title": "FA.Company.History",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.history",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.history",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.insidertransactions",
+                  "title": "FA.Company.InsiderTransactions",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.insidertransactions",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.insidertransactions",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.majorholders",
+                  "title": "FA.Company.MajorHolders",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.majorholders",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.majorholders",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.officers",
+                  "title": "FA.Company.Officers",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.officers",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.officers",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.otherownership",
+                  "title": "FA.Company.OtherOwnership",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.otherownership",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.otherownership",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.overview",
+                  "title": "FA.Company.Overview",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.overview",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.overview",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.phone",
+                  "title": "FA.Company.Phone",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.phone",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.phone",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.registeredcapital",
+                  "title": "FA.Company.RegisteredCapital",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.registeredcapital",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.registeredcapital",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.shortname",
+                  "title": "FA.Company.ShortName",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.shortname",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.shortname",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.taxidnumber",
+                  "title": "FA.Company.TaxIDNumber",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.taxidnumber",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.taxidnumber",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.stateownership",
+                  "title": "FA.Company.StateOwnership",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.stateownership",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.stateownership",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.company.webaddress",
+                  "title": "FA.Company.WebAddress",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.webaddress",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.webaddress",
+                  "has_readme": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "cac-ham-lay-thong-tin-tai-chinh",
+          "title": "CÁC HÀM LẤY THÔNG TIN TÀI CHÍNH",
+          "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh",
+          "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh",
+          "has_readme": true,
+          "children": [
+            {
+              "slug": "nhom-ham-fa.balancesheet",
+              "title": "Lớp hàm FA.BalanceSheet",
+              "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet",
+              "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet",
+              "has_readme": true,
+              "children": [
+                {
+                  "slug": "fa.balancesheet.cash",
+                  "title": "FA.BalanceSheet.Cash",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.cash",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.cash",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.balancesheet.currentassets",
+                  "title": "FA.BalanceSheet.CurrentAssets",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.currentassets",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.currentassets",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.balancesheet.fixedassets",
+                  "title": "FA.BalanceSheet.FixedAssets",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.fixedassets",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.fixedassets",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.balancesheet.lfy",
+                  "title": "FA.BalanceSheet.LFY",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.lfy",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.lfy",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.balancesheet.longtermliabilities",
+                  "title": "FA.BalanceSheet.LongTermLiabilities",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.longtermliabilities",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.longtermliabilities",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.balancesheet.quarter",
+                  "title": "FA.BalanceSheet.Quarter",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.quarter",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.quarter",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.balancesheet.reports",
+                  "title": "FA.BalanceSheet.Reports",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.reports",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.reports",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.balancesheet.shorttermliabilities",
+                  "title": "FA.BalanceSheet.ShortTermLiabilities",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.shorttermliabilities",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.shorttermliabilities",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.balancesheet.stockholderequity",
+                  "title": "FA.BalanceSheet.StockHolderEquity",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.stockholderequity",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.stockholderequity",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.balancesheet.totalassets",
+                  "title": "FA.BalanceSheet.TotalAssets",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.totalassets",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.totalassets",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.balancesheet.totalinventories",
+                  "title": "FA.BalanceSheet.TotalInventories",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.totalinventories",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.totalinventories",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.balancesheet.totalliabilities",
+                  "title": "FA.BalanceSheet.TotalLiabilities",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.totalliabilities",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.totalliabilities",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.balancesheet.value",
+                  "title": "FA.BalanceSheet.Value",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.value",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.value",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.balancesheet.year",
+                  "title": "FA.BalanceSheet.Year",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.year",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.balancesheet/fa.balancesheet.year",
+                  "has_readme": true
+                }
+              ]
+            },
+            {
+              "slug": "nhom-ham-fa.incomestatement",
+              "title": "Lớp hàm FA.IncomeStatement",
+              "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement",
+              "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement",
+              "has_readme": true,
+              "children": [
+                {
+                  "slug": "fa.incomestatement.grossprofit",
+                  "title": "FA.IncomeStatement.GrossProfit",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.grossprofit",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.grossprofit",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.incomestatement.lfy",
+                  "title": "FA.IncomeStatement.LFY",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.lfy",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.lfy",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.incomestatement.netsales-1",
+                  "title": "FA.IncomeStatement.NetSales",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.netsales-1",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.netsales-1",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.incomestatement.otherprofit-1",
+                  "title": "FA.IncomeStatement.OtherProfit",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.otherprofit-1",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.otherprofit-1",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.incomestatement.profitafterincometaxes-1",
+                  "title": "FA.IncomeStatement.ProfitAfterIncomeTaxes",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.profitafterincometaxes-1",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.profitafterincometaxes-1",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.incomestatement.profitbeforeincometaxes-1",
+                  "title": "FA.IncomeStatement.ProfitBeforeIncomeTaxes",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.profitbeforeincometaxes-1",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.profitbeforeincometaxes-1",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.incomestatement.profitfromfinancialactivities-1",
+                  "title": "FA.IncomeStatement.ProfitFromFinancialActivities",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.profitfromfinancialactivities-1",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.profitfromfinancialactivities-1",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.incomestatement.quarter",
+                  "title": "FA.IncomeStatement.Quarter",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.quarter",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.quarter",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.incomestatement.reports",
+                  "title": "FA.IncomeStatement.Reports",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.reports",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.reports",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.incomestatement.value",
+                  "title": "FA.IncomeStatement.Value",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.value",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.value",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.incomestatement.year",
+                  "title": "FA.IncomeStatement.Year",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.year",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.incomestatement/fa.incomestatement.year",
+                  "has_readme": true
+                }
+              ]
+            },
+            {
+              "slug": "nhom-ham-fa.cashflow",
+              "title": "Lớp hàm FA.CashFlow",
+              "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.cashflow",
+              "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.cashflow",
+              "has_readme": true,
+              "children": [
+                {
+                  "slug": "fa.cashflow.lfy",
+                  "title": "FA.CashFlow\\.LFY",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.cashflow/fa.cashflow.lfy",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.cashflow/fa.cashflow.lfy",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.cashflow.quarter",
+                  "title": "FA.CashFlow\\.Quarter",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.cashflow/fa.cashflow.quarter",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.cashflow/fa.cashflow.quarter",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.cashflow.reports",
+                  "title": "FA.CashFlow\\.Reports",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.cashflow/fa.cashflow.reports",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.cashflow/fa.cashflow.reports",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.cashflow.value",
+                  "title": "FA.CashFlow\\.Value",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.cashflow/fa.cashflow.value",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.cashflow/fa.cashflow.value",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.cashflow.year",
+                  "title": "FA.CashFlow\\.Year",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.cashflow/fa.cashflow.year",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.cashflow/fa.cashflow.year",
+                  "has_readme": true
+                }
+              ]
+            },
+            {
+              "slug": "nhom-ham-fa.ratio",
+              "title": "Lớp hàm FA.Ratio",
+              "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio",
+              "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio",
+              "has_readme": true,
+              "children": [
+                {
+                  "slug": "fa.ratio.basicepsgrowth_03yr",
+                  "title": "FA.Ratio.BasicEPSGrowth\\_03Yr",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.basicepsgrowth_03yr",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.basicepsgrowth_03yr",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.basicepsgrowth_lfy",
+                  "title": "FA.Ratio.BasicEPSGrowth\\_LFY",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.basicepsgrowth_lfy",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.basicepsgrowth_lfy",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.basicepsgrowth_mrq",
+                  "title": "FA.Ratio.BasicEPSGrowth\\_MRQ",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.basicepsgrowth_mrq",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.basicepsgrowth_mrq",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.basicepsgrowth_mrq2",
+                  "title": "FA.Ratio.BasicEPSGrowth\\_MRQ2",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.basicepsgrowth_mrq2",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.basicepsgrowth_mrq2",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.basicepsgrowth_ttm",
+                  "title": "FA.Ratio.BasicEPSGrowth\\_TTM",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.basicepsgrowth_ttm",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.basicepsgrowth_ttm",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.bookvaluepershare",
+                  "title": "FA.Ratio.BookValuePerShare",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.bookvaluepershare",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.bookvaluepershare",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.cof",
+                  "title": "FA.Ratio.COF",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.cof",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.cof",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.costtoassets",
+                  "title": "FA.Ratio.CostToAssets",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.costtoassets",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.costtoassets",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.costtoincome",
+                  "title": "FA.Ratio.CostToIncome",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.costtoincome",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.costtoincome",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.costtoloans",
+                  "title": "FA.Ratio.CostToLoans",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.costtoloans",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.costtoloans",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.currentassetsturnover",
+                  "title": "FA.Ratio.CurrentAssetsTurnover",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.currentassetsturnover",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.currentassetsturnover",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.currentratio",
+                  "title": "FA.Ratio.CurrentRatio",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.currentratio",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.currentratio",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.dilutedepsgrowth_03yr",
+                  "title": "FA.Ratio.DilutedEPSGrowth\\_03Yr",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.dilutedepsgrowth_03yr",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.dilutedepsgrowth_03yr",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.dilutedepsgrowth_lfy",
+                  "title": "FA.Ratio.DilutedEPSGrowth\\_LFY",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.dilutedepsgrowth_lfy",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.dilutedepsgrowth_lfy",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.dilutedepsgrowth_mrq",
+                  "title": "FA.Ratio.DilutedEPSGrowth\\_MRQ",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.dilutedepsgrowth_mrq",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.dilutedepsgrowth_mrq",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.dilutedepsgrowth_mrq2",
+                  "title": "FA.Ratio.DilutedEPSGrowth\\_MRQ2",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.dilutedepsgrowth_mrq2",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.dilutedepsgrowth_mrq2",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.dilutedepsgrowth_ttm",
+                  "title": "FA.Ratio.DilutedEPSGrowth\\_TTM",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.dilutedepsgrowth_ttm",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.dilutedepsgrowth_ttm",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.ebitmargin",
+                  "title": "FA.Ratio.EBITMargin",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.ebitmargin",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.ebitmargin",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.eps",
+                  "title": "FA.Ratio.EPS",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.eps",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.eps",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.equitytoloans",
+                  "title": "FA.Ratio.EquityToLoans",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.equitytoloans",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.equitytoloans",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.grossmargin",
+                  "title": "FA.Ratio.GrossMargin",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.grossmargin",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.grossmargin",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.interestcoverageratio",
+                  "title": "FA.Ratio.InterestCoverageRatio",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.interestcoverageratio",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.interestcoverageratio",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.inventoryturnover",
+                  "title": "FA.Ratio.InventoryTurnover",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.inventoryturnover",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.inventoryturnover",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.lar",
+                  "title": "FA.Ratio.LAR",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.lar",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.lar",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.ldr",
+                  "title": "FA.Ratio.LDR",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.ldr",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.ldr",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.loanlossreservestoloans",
+                  "title": "FA.Ratio.LoanlossReservesToLoans",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.loanlossreservestoloans",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.loanlossreservestoloans",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.loanlossreservestonpls",
+                  "title": "FA.Ratio.LoanlossReservesToNPLs",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.loanlossreservestonpls",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.loanlossreservestonpls",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.loanstodeposit",
+                  "title": "FA.Ratio.LoansToDeposit",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.loanstodeposit",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.loanstodeposit",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.longtermdebtoverequity",
+                  "title": "FA.Ratio.LongtermDebtOverEquity",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.longtermdebtoverequity",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.longtermdebtoverequity",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.netprofitmargin",
+                  "title": "FA.Ratio.NetProfitMargin",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.netprofitmargin",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.netprofitmargin",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.nim",
+                  "title": "FA.Ratio.NIM",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.nim",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.nim",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.noninterestincometonetinterestincome",
+                  "title": "FA.Ratio.NonInterestIncomeToNetInterestIncome",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.noninterestincometonetinterestincome",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.noninterestincometonetinterestincome",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.npls",
+                  "title": "FA.Ratio.NPLs",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.npls",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.npls",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.nplstoloans",
+                  "title": "FA.Ratio.NPLsToLoans",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.nplstoloans",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.nplstoloans",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.operatingmargin",
+                  "title": "FA.Ratio.OperatingMargin",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.operatingmargin",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.operatingmargin",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.pb",
+                  "title": "FA.Ratio.PB",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.pb",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.pb",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.pc",
+                  "title": "FA.Ratio.PC",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.pc",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.pc",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.pe",
+                  "title": "FA.Ratio.PE",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.pe",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.pe",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.preprovisionroa",
+                  "title": "FA.Ratio.PreprovisionROA",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.preprovisionroa",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.preprovisionroa",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.pretaxmargin",
+                  "title": "FA.Ratio.PreTaxMargin",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.pretaxmargin",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.pretaxmargin",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.profitgrowth_03yr",
+                  "title": "FA.Ratio.ProfitGrowth\\_03Yr",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.profitgrowth_03yr",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.profitgrowth_03yr",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.profitgrowth_lfy",
+                  "title": "FA.Ratio.ProfitGrowth\\_LFY",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.profitgrowth_lfy",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.profitgrowth_lfy",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.profitgrowth_mrq",
+                  "title": "FA.Ratio.ProfitGrowth\\_MRQ",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.profitgrowth_mrq",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.profitgrowth_mrq",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.profitgrowth_mrq2",
+                  "title": "FA.Ratio.ProfitGrowth\\_MRQ2",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.profitgrowth_mrq2",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.profitgrowth_mrq2",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.profitgrowth_ttm",
+                  "title": "FA.Ratio.ProfitGrowth\\_TTM",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.profitgrowth_ttm",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.profitgrowth_ttm",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.provisionchargestoloans",
+                  "title": "FA.Ratio.ProvisionChargesToLoans",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.provisionchargestoloans",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.provisionchargestoloans",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.ps",
+                  "title": "FA.Ratio.PS",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.ps",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.ps",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.pt",
+                  "title": "FA.Ratio.PT",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.pt",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.pt",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.quickratio",
+                  "title": "FA.Ratio.QuickRatio",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.quickratio",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.quickratio",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.receivablesturnover",
+                  "title": "FA.Ratio.ReceivablesTurnover",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.receivablesturnover",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.receivablesturnover",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.roa",
+                  "title": "FA.Ratio.ROA",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.roa",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.roa",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.roce",
+                  "title": "FA.Ratio.ROCE",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.roce",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.roce",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.roe",
+                  "title": "FA.Ratio.ROE",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.roe",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.roe",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.roic",
+                  "title": "FA.Ratio.ROIC",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.roic",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.roic",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.salesgrowth_03yr",
+                  "title": "FA.Ratio.SalesGrowth\\_03Yr",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.salesgrowth_03yr",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.salesgrowth_03yr",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.salesgrowth_lfy",
+                  "title": "FA.Ratio.SalesGrowth\\_LFY",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.salesgrowth_lfy",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.salesgrowth_lfy",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.salesgrowth_mrq",
+                  "title": "FA.Ratio.SalesGrowth\\_MRQ",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.salesgrowth_mrq",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.salesgrowth_mrq",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.salesgrowth_mrq2",
+                  "title": "FA.Ratio.SalesGrowth\\_MRQ2",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.salesgrowth_mrq2",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.salesgrowth_mrq2",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.salesgrowth_ttm",
+                  "title": "FA.Ratio.SalesGrowth\\_TTM",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.salesgrowth_ttm",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.salesgrowth_ttm",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.salespershare",
+                  "title": "FA.Ratio.SalesPerShare",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.salespershare",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.salespershare",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.totalassetsgrowth_03yr",
+                  "title": "FA.Ratio.TotalAssetsGrowth\\_03Yr",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totalassetsgrowth_03yr",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totalassetsgrowth_03yr",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.totalassetsgrowth_lfy",
+                  "title": "FA.Ratio.TotalAssetsGrowth\\_LFY",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totalassetsgrowth_lfy",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totalassetsgrowth_lfy",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.totalassetsgrowth_mrq",
+                  "title": "FA.Ratio.TotalAssetsGrowth\\_MRQ",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totalassetsgrowth_mrq",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totalassetsgrowth_mrq",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.totalassetsgrowth_mrq2",
+                  "title": "FA.Ratio.TotalAssetsGrowth\\_MRQ2",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totalassetsgrowth_mrq2",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totalassetsgrowth_mrq2",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.totalassetsgrowth_ttm",
+                  "title": "FA.Ratio.TotalAssetsGrowth\\_TTM",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totalassetsgrowth_ttm",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totalassetsgrowth_ttm",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.totalassetsturnover",
+                  "title": "FA.Ratio.TotalAssetsTurnover",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totalassetsturnover",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totalassetsturnover",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.totaldebtoverassets",
+                  "title": "FA.Ratio.TotalDebtOverAssets",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totaldebtoverassets",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totaldebtoverassets",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.totaldebtoverequity",
+                  "title": "FA.Ratio.TotalDebtOverEquity",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totaldebtoverequity",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.totaldebtoverequity",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ratio.yoea",
+                  "title": "FA.Ratio.YOEA",
+                  "path": "fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.yoea",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-tai-chinh/nhom-ham-fa.ratio/fa.ratio.yoea",
+                  "has_readme": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "cac-ham-khac",
+          "title": "📌CÁC HÀM KHÁC",
+          "path": "fireant-for-excel/cac-ham-khac",
+          "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-khac",
+          "has_readme": true,
+          "children": [
+            {
+              "slug": "nhom-ham-fa.ui",
+              "title": "Lớp hàm FA.UI",
+              "path": "fireant-for-excel/cac-ham-khac/nhom-ham-fa.ui",
+              "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-khac/nhom-ham-fa.ui",
+              "has_readme": true,
+              "children": [
+                {
+                  "slug": "fa.ui.companyprofile",
+                  "title": "FA.UI.CompanyProfile",
+                  "path": "fireant-for-excel/cac-ham-khac/nhom-ham-fa.ui/fa.ui.companyprofile",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-khac/nhom-ham-fa.ui/fa.ui.companyprofile",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ui.intradaychart",
+                  "title": "FA.UI.IntradayChart",
+                  "path": "fireant-for-excel/cac-ham-khac/nhom-ham-fa.ui/fa.ui.intradaychart",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-khac/nhom-ham-fa.ui/fa.ui.intradaychart",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ui.stockrealtime",
+                  "title": "FA.UI.StockRealtime",
+                  "path": "fireant-for-excel/cac-ham-khac/nhom-ham-fa.ui/fa.ui.stockrealtime",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-khac/nhom-ham-fa.ui/fa.ui.stockrealtime",
+                  "has_readme": true
+                },
+                {
+                  "slug": "fa.ui.technicalchart",
+                  "title": "FA.UI.TechnicalChart",
+                  "path": "fireant-for-excel/cac-ham-khac/nhom-ham-fa.ui/fa.ui.technicalchart",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-khac/nhom-ham-fa.ui/fa.ui.technicalchart",
+                  "has_readme": true
+                }
+              ]
+            },
+            {
+              "slug": "nhom-ham-fa.settings",
+              "title": "Nhóm hàm FA.Settings",
+              "path": "fireant-for-excel/cac-ham-khac/nhom-ham-fa.settings",
+              "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-khac/nhom-ham-fa.settings",
+              "has_readme": true,
+              "children": [
+                {
+                  "slug": "fa.settings.language",
+                  "title": "FA.Settings.Language",
+                  "path": "fireant-for-excel/cac-ham-khac/nhom-ham-fa.settings/fa.settings.language",
+                  "source": "https://help.fireant.vn/fireant-for-excel/cac-ham-khac/nhom-ham-fa.settings/fa.settings.language",
+                  "has_readme": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "fireant-for-metakit",
+      "title": "Tổng quan",
+      "path": "fireant-for-metakit",
+      "source": "https://help.fireant.vn/fireant-for-metakit",
+      "has_readme": true,
+      "children": [
+        {
+          "slug": "cai-dat-fireant-for-amibroker",
+          "title": "Cài đặt FireAnt for Amibroker",
+          "path": "fireant-for-metakit/cai-dat-fireant-for-amibroker",
+          "source": "https://help.fireant.vn/fireant-for-metakit/cai-dat-fireant-for-amibroker",
+          "has_readme": true
+        },
+        {
+          "slug": "thiet-lap-du-lieu-cho-amibroker",
+          "title": "Thiết lập dữ liệu cho Amibroker",
+          "path": "fireant-for-metakit/thiet-lap-du-lieu-cho-amibroker",
+          "source": "https://help.fireant.vn/fireant-for-metakit/thiet-lap-du-lieu-cho-amibroker",
+          "has_readme": true
+        },
+        {
+          "slug": "untitled",
+          "title": "Các loại dữ liệu cho Amibroker",
+          "path": "fireant-for-metakit/untitled",
+          "source": "https://help.fireant.vn/fireant-for-metakit/untitled",
+          "has_readme": true
+        },
+        {
+          "slug": "su-dung-script-cua-fireant",
+          "title": "Sử dụng Script của FireAnt",
+          "path": "fireant-for-metakit/su-dung-script-cua-fireant",
+          "source": "https://help.fireant.vn/fireant-for-metakit/su-dung-script-cua-fireant",
+          "has_readme": true
+        },
+        {
+          "slug": "tao-ma-afl-voi-ai-code-creator",
+          "title": "Tạo mã AFL với AI Code Creator",
+          "path": "fireant-for-metakit/tao-ma-afl-voi-ai-code-creator",
+          "source": "https://help.fireant.vn/fireant-for-metakit/tao-ma-afl-voi-ai-code-creator",
+          "has_readme": true,
+          "children": [
+            {
+              "slug": "cac-tu-khoa",
+              "title": "Các từ khóa",
+              "path": "fireant-for-metakit/tao-ma-afl-voi-ai-code-creator/cac-tu-khoa",
+              "source": "https://help.fireant.vn/fireant-for-metakit/tao-ma-afl-voi-ai-code-creator/cac-tu-khoa",
+              "has_readme": true
+            },
+            {
+              "slug": "cac-yeu-cau-mau",
+              "title": "Các yêu cầu mẫu",
+              "path": "fireant-for-metakit/tao-ma-afl-voi-ai-code-creator/cac-yeu-cau-mau",
+              "source": "https://help.fireant.vn/fireant-for-metakit/tao-ma-afl-voi-ai-code-creator/cac-yeu-cau-mau",
+              "has_readme": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "fireant-help",
+      "title": "TỔNG QUAN",
+      "path": "fireant-help",
+      "source": "https://help.fireant.vn/fireant-help",
+      "has_readme": true
+    },
+    {
+      "slug": "fireant-for-web-1",
+      "title": "Tổng quan",
+      "path": "fireant-for-web-1",
+      "source": "https://help.fireant.vn/fireant-for-web-1",
+      "has_readme": true,
+      "children": [
+        {
+          "slug": "cac-chi-so-ky-thuat",
+          "title": "Các chỉ số kỹ thuật",
+          "path": "fireant-for-web-1/cac-chi-so-ky-thuat",
+          "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat",
+          "has_readme": true,
+          "children": [
+            {
+              "slug": "vai-tro-cua-watchlist",
+              "title": "Hướng dẫn chung",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/vai-tro-cua-watchlist",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/vai-tro-cua-watchlist",
+              "has_readme": true
+            },
+            {
+              "slug": "ai-predition",
+              "title": "AI Predition",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/ai-predition",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/ai-predition",
+              "has_readme": true
+            },
+            {
+              "slug": "untitled",
+              "title": "Rainbow",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/untitled",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/untitled",
+              "has_readme": true
+            },
+            {
+              "slug": "guppy-multiple-moving-average",
+              "title": "Guppy Multiple Moving Average",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/guppy-multiple-moving-average",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/guppy-multiple-moving-average",
+              "has_readme": true
+            },
+            {
+              "slug": "normalized-volume",
+              "title": "Normalized Volume",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/normalized-volume",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/normalized-volume",
+              "has_readme": true
+            },
+            {
+              "slug": "multi-color-dragon-extended-mcdx",
+              "title": "Multi Color Dragon Extended (MCDX)",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/multi-color-dragon-extended-mcdx",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/multi-color-dragon-extended-mcdx",
+              "has_readme": true
+            },
+            {
+              "slug": "stochastic-kdj",
+              "title": "Stochastic KDJ",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/stochastic-kdj",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/stochastic-kdj",
+              "has_readme": true
+            },
+            {
+              "slug": "big-trade",
+              "title": "Big Trade",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/big-trade",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/big-trade",
+              "has_readme": true
+            },
+            {
+              "slug": "foreigner-trade-statistics",
+              "title": "Foreigner Trade Statistics",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/foreigner-trade-statistics",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/foreigner-trade-statistics",
+              "has_readme": true
+            },
+            {
+              "slug": "net-foreigner-trade",
+              "title": "Net Foreigner Trade",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/net-foreigner-trade",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/net-foreigner-trade",
+              "has_readme": true
+            },
+            {
+              "slug": "supply-and-demand-statistics",
+              "title": "Supply & Demand Statistics",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/supply-and-demand-statistics",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/supply-and-demand-statistics",
+              "has_readme": true
+            },
+            {
+              "slug": "net-proprietary-trade",
+              "title": "Net Proprietary Trade",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/net-proprietary-trade",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/net-proprietary-trade",
+              "has_readme": true
+            },
+            {
+              "slug": "relative-rotation-graph-rrg",
+              "title": "Relative Rotation Graph (RRG)",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/relative-rotation-graph-rrg",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/relative-rotation-graph-rrg",
+              "has_readme": true
+            },
+            {
+              "slug": "sessions",
+              "title": "Sessions",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/sessions",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/sessions",
+              "has_readme": true
+            },
+            {
+              "slug": "mfi",
+              "title": "Money Flow Index (MFI)",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/mfi",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/mfi",
+              "has_readme": true
+            },
+            {
+              "slug": "rsi",
+              "title": "Relative Strength Index (RSI)",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/rsi",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/rsi",
+              "has_readme": true
+            },
+            {
+              "slug": "cci",
+              "title": "Commodity Channel Index (CCI)",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/cci",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/cci",
+              "has_readme": true
+            },
+            {
+              "slug": "macd",
+              "title": "Advanced MACD",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/macd",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/macd",
+              "has_readme": true
+            },
+            {
+              "slug": "ulcer",
+              "title": "Ulcer",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/ulcer",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/ulcer",
+              "has_readme": true
+            },
+            {
+              "slug": "psychological-index",
+              "title": "Psychological Index",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/psychological-index",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/psychological-index",
+              "has_readme": true
+            },
+            {
+              "slug": "parabolic-stop-and-reserve-psar",
+              "title": "Parabolic Stop And Reserve (PSAR)",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/parabolic-stop-and-reserve-psar",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/parabolic-stop-and-reserve-psar",
+              "has_readme": true
+            },
+            {
+              "slug": "magic-trend",
+              "title": "Magic Trend",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/magic-trend",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/magic-trend",
+              "has_readme": true
+            },
+            {
+              "slug": "sensitive-ma",
+              "title": "Sensitive MA",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/sensitive-ma",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/sensitive-ma",
+              "has_readme": true
+            },
+            {
+              "slug": "ema",
+              "title": "EMA",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/ema",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/ema",
+              "has_readme": true
+            },
+            {
+              "slug": "bollinger-bands",
+              "title": "Bollinger Bands",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/bollinger-bands",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/bollinger-bands",
+              "has_readme": true
+            },
+            {
+              "slug": "highest-lowest-bands",
+              "title": "Highest Lowest Bands",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/highest-lowest-bands",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/highest-lowest-bands",
+              "has_readme": true
+            },
+            {
+              "slug": "abandoned-baby",
+              "title": "Abandoned Baby",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/abandoned-baby",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/abandoned-baby",
+              "has_readme": true
+            },
+            {
+              "slug": "three-black-crows-three-white-soldier",
+              "title": "Three Black Crows / Three White Soldier",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/three-black-crows-three-white-soldier",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/three-black-crows-three-white-soldier",
+              "has_readme": true
+            },
+            {
+              "slug": "evening-star-morning-star",
+              "title": "Evening Star / Morning Star",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/evening-star-morning-star",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/evening-star-morning-star",
+              "has_readme": true
+            },
+            {
+              "slug": "evening-doji-star-morning-doji-star",
+              "title": "Evening Doji Star / Morning Doji Star",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/evening-doji-star-morning-doji-star",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/evening-doji-star-morning-doji-star",
+              "has_readme": true
+            },
+            {
+              "slug": "tasuki-gap",
+              "title": "Tasuki GAP",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/tasuki-gap",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/tasuki-gap",
+              "has_readme": true
+            },
+            {
+              "slug": "dark-cloud-cover-piercing",
+              "title": "Dark Cloud Cover / Piercing",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/dark-cloud-cover-piercing",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/dark-cloud-cover-piercing",
+              "has_readme": true
+            },
+            {
+              "slug": "engulfing",
+              "title": "Engulfing",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/engulfing",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/engulfing",
+              "has_readme": true
+            },
+            {
+              "slug": "harami",
+              "title": "Harami",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/harami",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/harami",
+              "has_readme": true
+            },
+            {
+              "slug": "harami-cross",
+              "title": "Harami Cross",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/harami-cross",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/harami-cross",
+              "has_readme": true
+            },
+            {
+              "slug": "meeting-lines",
+              "title": "Meeting Lines",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/meeting-lines",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/meeting-lines",
+              "has_readme": true
+            },
+            {
+              "slug": "separating-lines",
+              "title": "Separating Lines",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/separating-lines",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/separating-lines",
+              "has_readme": true
+            },
+            {
+              "slug": "doji-star",
+              "title": "Doji Star",
+              "path": "fireant-for-web-1/cac-chi-so-ky-thuat/doji-star",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/doji-star",
+              "has_readme": true
+            }
+          ]
+        },
+        {
+          "slug": "cac-chi-so-co-ban",
+          "title": "📊CÁC CHỈ SỐ CƠ BẢN",
+          "path": "fireant-for-web-1/cac-chi-so-co-ban",
+          "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-co-ban",
+          "has_readme": true,
+          "children": [
+            {
+              "slug": "huong-dan-chung",
+              "title": "Hướng dẫn chung",
+              "path": "fireant-for-web-1/cac-chi-so-co-ban/huong-dan-chung",
+              "source": "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-co-ban/huong-dan-chung",
+              "has_readme": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "thu-vien-chi-bao",
+      "title": "Average Directional Index",
+      "path": "thu-vien-chi-bao",
+      "source": "https://help.fireant.vn/thu-vien-chi-bao",
+      "has_readme": true,
+      "orphan": true,
+      "children": [
+        {
+          "slug": "accumulative-swing-index",
+          "title": "Accumulative Swing Index",
+          "path": "thu-vien-chi-bao/accumulative-swing-index",
+          "source": "https://help.fireant.vn/thu-vien-chi-bao/accumulative-swing-index",
+          "has_readme": true
+        },
+        {
+          "slug": "volume-profile-visible-range",
+          "title": "Volume Profile Visible Range",
+          "path": "thu-vien-chi-bao/volume-profile-visible-range",
+          "source": "https://help.fireant.vn/thu-vien-chi-bao/volume-profile-visible-range",
+          "has_readme": true
+        },
+        {
+          "slug": "true-strength-index",
+          "title": "True Strength Index",
+          "path": "thu-vien-chi-bao/true-strength-index",
+          "source": "https://help.fireant.vn/thu-vien-chi-bao/true-strength-index",
+          "has_readme": true
+        }
+      ]
+    },
+    {
+      "slug": "thuat-ngu-chung-khoan",
+      "title": "Chỉ báo kỹ thuật",
+      "path": "thuat-ngu-chung-khoan",
+      "source": "https://help.fireant.vn/thuat-ngu-chung-khoan",
+      "has_readme": true,
+      "orphan": true,
+      "children": [
+        {
+          "slug": "phan-tich-ky-thuat",
+          "title": "Phân tích kỹ thuật",
+          "path": "thuat-ngu-chung-khoan/phan-tich-ky-thuat",
+          "source": "https://help.fireant.vn/thuat-ngu-chung-khoan/phan-tich-ky-thuat",
+          "has_readme": true
+        },
+        {
+          "slug": "lenh-atc",
+          "title": "Lệnh ATC",
+          "path": "thuat-ngu-chung-khoan/lenh-atc",
+          "source": "https://help.fireant.vn/thuat-ngu-chung-khoan/lenh-atc",
+          "has_readme": true
+        },
+        {
+          "slug": "lenh-ato",
+          "title": "Lệnh ATO",
+          "path": "thuat-ngu-chung-khoan/lenh-ato",
+          "source": "https://help.fireant.vn/thuat-ngu-chung-khoan/lenh-ato",
+          "has_readme": true
+        }
+      ]
+    }
+  ]
+}

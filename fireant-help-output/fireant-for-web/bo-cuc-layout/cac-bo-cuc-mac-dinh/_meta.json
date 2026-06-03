@@ -1,0 +1,26 @@
+{
+  "bo-cuc-rong": {
+    "title": "Trang thông tin với nội dung trống"
+  },
+  "dashboard": {
+    "title": "Dashboard"
+  },
+  "tim-kiem-co-hoi": {
+    "title": "Tìm kiếm cơ hội"
+  },
+  "tim-kiem-co-hoi-voi-bieu-do": {
+    "title": "Tìm kiếm cơ hội với biểu đồ"
+  },
+  "bieu-do": {
+    "title": "Biểu đồ dạng Tab"
+  },
+  "bieu-do-2-ma-doc-lap": {
+    "title": "Biểu đồ 2 mã độc lập"
+  },
+  "bieu-do-1-ma-2-khung-gio": {
+    "title": "Biểu đồ 1 mã 2 khung giờ"
+  },
+  "bieu-do-4-ma-doc-lap": {
+    "title": "Biểu đồ 4 mã độc lập"
+  }
+}

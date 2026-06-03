@@ -1,0 +1,62 @@
+{
+  "fa.market.advances": {
+    "title": "FA.Market.Advances"
+  },
+  "fa.market.buyforeignquantity": {
+    "title": "FA.Market.BuyForeignQuantity"
+  },
+  "fa.market.buyforeignvalue": {
+    "title": "FA.Market.BuyForeignValue"
+  },
+  "fa.market.declines": {
+    "title": "FA.Market.Declines"
+  },
+  "fa.market.indexbasic": {
+    "title": "FA.Market.IndexBasic"
+  },
+  "fa.market.indexcurrent": {
+    "title": "FA.Market.IndexCurrent"
+  },
+  "fa.market.indexhigh": {
+    "title": "FA.Market.IndexHigh"
+  },
+  "fa.market.indexlow": {
+    "title": "FA.Market.IndexLow"
+  },
+  "fa.market.minutes": {
+    "title": "FA.Market.Minutes"
+  },
+  "fa.market.ptvalue": {
+    "title": "FA.Market.PTValue"
+  },
+  "fa.market.ptvolume": {
+    "title": "FA.Market.PTVolume"
+  },
+  "fa.market.sellforeignquantity": {
+    "title": "FA.Market.SellForeignQuantity"
+  },
+  "fa.market.sellforeignvalue": {
+    "title": "FA.Market.SellForeignValue"
+  },
+  "fa.market.time": {
+    "title": "FA.Market.Time"
+  },
+  "fa.market.totaltrade": {
+    "title": "FA.Market.TotalTrade"
+  },
+  "fa.market.totalvalue": {
+    "title": "FA.Market.TotalValue"
+  },
+  "fa.market.totalvolume": {
+    "title": "FA.Market.TotalVolume"
+  },
+  "fa.market.traded": {
+    "title": "FA.Market.Traded"
+  },
+  "fa.market.unchange": {
+    "title": "FA.Market.Unchange"
+  },
+  "fa.market.untraded": {
+    "title": "FA.Market.Untraded"
+  }
+}

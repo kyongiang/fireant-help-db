@@ -1,0 +1,17 @@
+{
+  "fa.cashflow.lfy": {
+    "title": "FA.CashFlow\\.LFY"
+  },
+  "fa.cashflow.quarter": {
+    "title": "FA.CashFlow\\.Quarter"
+  },
+  "fa.cashflow.reports": {
+    "title": "FA.CashFlow\\.Reports"
+  },
+  "fa.cashflow.value": {
+    "title": "FA.CashFlow\\.Value"
+  },
+  "fa.cashflow.year": {
+    "title": "FA.CashFlow\\.Year"
+  }
+}

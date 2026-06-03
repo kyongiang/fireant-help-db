@@ -1,0 +1,14 @@
+{
+  "fa.ui.companyprofile": {
+    "title": "FA.UI.CompanyProfile"
+  },
+  "fa.ui.intradaychart": {
+    "title": "FA.UI.IntradayChart"
+  },
+  "fa.ui.stockrealtime": {
+    "title": "FA.UI.StockRealtime"
+  },
+  "fa.ui.technicalchart": {
+    "title": "FA.UI.TechnicalChart"
+  }
+}

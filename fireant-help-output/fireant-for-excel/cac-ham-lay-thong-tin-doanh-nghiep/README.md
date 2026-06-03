@@ -1,0 +1,96 @@
+---
+title: "CÁC HÀM LẤY THÔNG TIN DOANH NGHIỆP"
+source: "https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep"
+---
+
+# CÁC HÀM LẤY THÔNG TIN DOANH NGHIỆP
+
+- [Lớp hàm FA.Stock](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock.md): Các hàm thống kê giáo dịch, lấy danh sách và thông tin mã chứng khoán
+- [FA.Stock.AllStockSymbols](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.allstocksymbols.md): Lấy danh sách toàn bộ mã chứng khoán
+- [FA.Stock.AvgPrice10d](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.avgprice10d.md): Lấy trung bình giá 10 ngày giao dịch của cổ phiếu
+- [FA.Stock.AvgPrice20d](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.avgprice20d.md): Lấy trung bình giá 20 ngày giao dịch của cổ phiếu
+- [FA.Stock.AvgPrice5d](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.avgprice5d.md): Lấy trung bình giá 5 ngày giao dịch của cổ phiếu
+- [FA.Stock.AvgVolume10d](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.avgvolume10d.md): Lấy trung bình khối lượng 10 ngày của cổ phiếu
+- [FA.Stock.AvgVolume20d](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.avgvolume20d.md): Lấy trung bình khối lượng 20 ngày của cổ phiếu
+- [FA.Stock.AvgVolume5d](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.avgvolume5d.md): Lấy trung bình khối lượng 5 ngày của cổ phiếu
+- [FA.Stock.BuyQuantity1m](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity1m.md): Lấy khối lượng đặt mua trong 1 tháng của cổ phiếu
+- [FA.Stock.BuyQuantity1w](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity1w.md): Lấy khối lượng đặt mua trong 1 tuần của cổ phiếu
+- [FA.Stock.BuyQuantity1y](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity1y.md): Lấy khối lượng đặt mua trong 1 năm của cổ phiếu
+- [FA.Stock.BuyQuantity2y](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity2y.md): Lấy khối lượng đặt mua trong 2 năm của cổ phiếu
+- [FA.Stock.BuyQuantity3m](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity3m.md): Lấy khối lượng đặt mua trong 3 tháng của cổ phiếu
+- [FA.Stock.BuyQuantity3y](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity3y.md): Lấy khối lượng đặt mua trong 3 năm của cổ phiếu
+- [FA.Stock.BuyQuantity5y](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity5y.md): Lấy khối lượng đặt mua trong 5 năm của cổ phiếu
+- [FA.Stock.BuyQuantity6m](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.buyquantity6m.md): Lấy khối lượng đặt mua trong 6 tháng của cổ phiếu
+- [FA.Stock.DividendHistory](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.dividendhistory.md): Hiển thị thông tin trả cổ tức hàng năm của doanh nghiệp. Hàm này chỉ dùng cho tài khoản Excel Platform Professional.
+- [FA.Stock.DividendInCash\_03YrAvg](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.dividendincash_03yravg.md): Lấy trung bình cổ tức bằng tiền 3 năm của cổ phiếu. Hàm này chỉ dùng cho tài khoản Excel Platform Professional.
+- [FA.Stock.DividendInShares\_03YrAvg](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.dividendinshares_03yravg.md): Lấy Trung bình cổ tức bằng CP 3 năm của cổ phiếu. Hàm này chỉ dùng cho tài khoản Excel Platform Professional.
+- [FA.Stock.Exchange](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.exchange.md): Lấy mã sàn niêm yết của cổ phiếu
+- [FA.Stock.FreeShares](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.freeshares.md): Lấy số lượng cổ phiếu tự do chuyển nhượng hiện tại của cổ phiếu. Hàm này chỉ dùng cho tài khoản Excel Platform Professional.
+- [FA.Stock.HighPrice1m](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice1m.md): Lấy giá cao nhất trong 1 tháng của cổ phiếu
+- [FA.Stock.HighPrice1w](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice1w.md): Lấy giá cao nhất trong 1 tuần của cổ phiếu
+- [FA.Stock.HighPrice1y](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice1y.md): Lấy giá cao nhất trong 1 năm của cổ phiếu
+- [FA.Stock.HighPrice2y](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice2y.md): Lấy giá cao nhất trong 2 năm của cổ phiếu
+- [FA.Stock.HighPrice3m](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice3m.md): Lấy giá cao nhất trong 3 tháng của cổ phiếu
+- [FA.Stock.HighPrice3y](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice3y.md): Lấy giá cao nhất trong 3 năm của cổ phiếu
+- [FA.Stock.HighPrice5y](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice5y.md): Lấy giá cao nhất trong 5 năm của cổ phiếu
+- [FA.Stock.HighPrice6m](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.highprice6m.md): Lấy giá cao nhất trong 6 tháng của cổ phiếu
+- [FA.Stock.IndustryCode](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.industrycode.md): Lấy mã ngành ICB của cổ phiếu
+- [FA.Stock.LastClosedDate](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.lastcloseddate.md): Lấy ngày giao dịch đã đóng cửa gần nhất của cổ phiếu
+- [FA.Stock.LowPrice1m](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.lowprice1m.md): Lấy giá thấp nhất trong 1 tháng của cổ phiếu
+- [FA.Stock.LowPrice1w](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.lowprice1w.md): Lấy giá thấp nhất trong 1 tuần của cổ phiếu
+- [FA.Stock.LowPrice1y](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.lowprice1y.md): Lấy giá thấp nhất trong 1 năm của cổ phiếu
+- [FA.Stock.LowPrice2y](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/untitled-6.md): Lấy giá thấp nhất trong 2 năm của cổ phiếu
+- [FA.Stock.LowPrice3m](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/untitled-7.md): Lấy giá thấp nhất trong 3 tháng của cổ phiếu
+- [FA.Stock.LowPrice3y](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.lowprice3y.md): Lấy giá thấp nhất trong 3 năm của cổ phiếu
+- [FA.Stock.LowPrice5y](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/untitled-8.md): Lấy giá thấp nhất trong 5 năm của cổ phiếu
+- [FA.Stock.LowPrice6m](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/untitled-9.md): Lấy giá thấp nhất trong 6 tháng của cổ phiếu
+- [FA.Stock.MarketCap](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/untitled-10.md): Lấy vốn hóa thị trường hiện tại của cổ phiếu. Hàm này chỉ dùng cho tài khoản Excel Platform Professional.
+- [FA.Stock.Name](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/untitled.md): Lấy tên công ty ứng với mã chứng khoán
+- [FA.Stock.PriceChange1m](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange1m.md): Lấy thay đổi giá trong 1 tháng của cổ phiếu
+- [FA.Stock.PriceChange1w](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange1w.md): Lấy thay đổi giá trong 1 tuần của cổ phiếu
+- [FA.Stock.PriceChange1y](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange1y.md): Lấy thay đổi giá trong 1 năm của cổ phiếu
+- [FA.Stock.PriceChange2y](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange2y.md): Lấy thay đổi giá trong 2 năm của cổ phiếu
+- [FA.Stock.PriceChange3m](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange3m.md): Lấy thay đổi giá trong 3 tháng của cổ phiếu
+- [FA.Stock.PriceChange3y](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange3y.md): Lấy thay đổi giá trong 3 năm của cổ phiếu
+- [FA.Stock.PriceChange5y](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange5y.md): Lấy thay đổi giá trong 5 năm của cổ phiếu
+- [FA.Stock.PriceChange6m](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.pricechange6m.md): Lấy thay đổi giá trong 6 tháng của cổ phiếu
+- [FA.Stock.SellQuantity1m](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity1m.md): Lấy khối lượng đặt bán trong 1 tháng của cổ phiếu
+- [FA.Stock.SellQuantity1w](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity1w.md): Lấy khối lượng đặt bán trong 1 tuần của cổ phiếu
+- [FA.Stock.SellQuantity1y](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity1y.md): Lấy khối lượng đặt bán trong 1 năm của cổ phiếu
+- [FA.Stock.SellQuantity2y](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity2y.md): Lấy khối lượng đặt bán trong 2 năm của cổ phiếu
+- [FA.Stock.SellQuantity3m](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity3m.md): Lấy khối lượng đặt bán trong 3 tháng của cổ phiếu
+- [FA.Stock.SellQuantity3y](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity3y.md): Lấy khối lượng đặt bán trong 3 năm của cổ phiếu
+- [FA.Stock.SellQuantity5y](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity5y.md): Lấy khối lượng đặt bán trong 5 năm của cổ phiếu
+- [FA.Stock.SellQuantity6m](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sellquantity6m.md): Lấy khối lượng đặt bán trong 6 tháng của cổ phiếu
+- [FA.Stock.SharesOutstanding](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.sharesoutstanding.md): Lấy số lượng cổ phiếu lưu hành hiện tại của cổ phiếu. Hàm này chỉ dùng cho tài khoản Excel Platform Professional.
+- [FA.Stock.StockSymbolsByExchange](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.stocksymbolsbyexchange.md): Lấy danh sách mã chứng khoán niêm yết trên sàn giao dịch
+- [FA.Stock.StockSymbolsByIndustry](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.stock/fa.stock.stocksymbolsbyindustry.md): Lấy danh sách mã chứng khoán trong 1 ngành
+- [Lớp hàm FA.Industry](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.industry.md): Các hàm lấy thông tin cấu trúc ngành
+- [FA.Industry.AllIndustries](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.industry/fa.industry.allindustries.md): Lấy danh sách toàn bộ ngành ICB
+- [FA.Industry.IndustryLevel](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.industry/fa.industry.industrylevel.md): Lấy cấp của ngành ICB
+- [FA.Industry.IndustryName](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.industry/fa.industry.industryname.md): Lấy tên ngành ICB
+- [Lớp hàm FA.Company](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company.md): Các hàm lấy thông tin hồ sơ doanh nghiệp
+- [FA.Company.Branches](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.branches.md): Lấy số lượng chi nhánh của công ty
+- [FA.Company.BusinessAreas](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.businessareas.md): Lấy ngành nghề kinh doanh của công ty
+- [FA.Company.CompanyName](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.companyname.md): Lấy tên công ty của cổ phiếu
+- [FA.Company.CompanyType](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.companytype.md): Lấy loại hình của doanh nghiệp ứng với mã chứng khoán
+- [FA.Company.DateOfIssue](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.dateofissue.md): Lấy ngày cấp ĐKKD của công ty
+- [FA.Company.Email](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.email.md): Lấy địa chỉ email của công ty
+- [FA.Company.Employees](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.employees.md): Lấy số lượng nhân sự của công ty
+- [FA.Company.EstablishmentDate](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.establishmentdate.md): Lấy ngày thành lập của công ty
+- [FA.Company.Exchange](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.exchange.md): Lấy sàn niêm yết của cổ phiếu
+- [FA.Company.Fax](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.fax.md): Lấy số fax của công ty
+- [FA.Company.ForeignOwnership](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.foreignownership.md): Lấy tỉ lệ sở hữu cổ phiếu của nước ngoài
+- [FA.Company.HeadQuarter](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.headquarter.md): Lấy địa chỉ trụ sở của công ty
+- [FA.Company.History](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.history.md): Lấy thông tin lịch sử hình thành của công ty
+- [FA.Company.InsiderTransactions](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.insidertransactions.md): Hiển thị danh sách giao dịch cổ phiếu của cổ đông quan trọng trong công ty
+- [FA.Company.MajorHolders](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.majorholders.md): Hiển thị danh sách cổ đông lớn của công ty
+- [FA.Company.Officers](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.officers.md): Hiển thị danh sách ban lãnh đạo của công ty
+- [FA.Company.OtherOwnership](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.otherownership.md): Lấy tỉ lệ sở hữu cổ phiếu khác
+- [FA.Company.Overview](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.overview.md): Lấy thông tin tổng quan của cổ phiếu
+- [FA.Company.Phone](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.phone.md): Lấy điện thoại liên hệ của công ty
+- [FA.Company.RegisteredCapital](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.registeredcapital.md): Lấy vốn điều lệ của công ty
+- [FA.Company.ShortName](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.shortname.md): Lấy tên công ty viết tắt của cổ phiếu
+- [FA.Company.TaxIDNumber](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.taxidnumber.md): Lấy mã số thuế của công ty
+- [FA.Company.StateOwnership](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.stateownership.md): Lấy tỉ lệ sở hữu cổ phiếu của nhà nước
+- [FA.Company.WebAddress](https://help.fireant.vn/fireant-for-excel/cac-ham-lay-thong-tin-doanh-nghiep/nhom-ham-fa.company/fa.company.webaddress.md): Lấy địa chỉ website của công ty

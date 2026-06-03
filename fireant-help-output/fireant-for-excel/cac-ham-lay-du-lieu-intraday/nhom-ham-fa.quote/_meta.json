@@ -1,0 +1,125 @@
+{
+  "fa.quote.buycount": {
+    "title": "FA.Quote.BuyCount"
+  },
+  "fa.quote.buyforeignquantity": {
+    "title": "FA.Quote.BuyForeignQuantity"
+  },
+  "fa.quote.buyforeignvalue": {
+    "title": "FA.Quote.BuyForeignValue"
+  },
+  "fa.quote.buyquantity": {
+    "title": "FA.Quote.BuyQuantity"
+  },
+  "fa.quote.currentforeignroom": {
+    "title": "FA.Quote.CurrentForeignRoom"
+  },
+  "fa.quote.datetime": {
+    "title": "FA.Quote.DateTime"
+  },
+  "fa.quote.name": {
+    "title": "FA.Quote.Name"
+  },
+  "fa.quote.priceask1": {
+    "title": "FA.Quote.PriceAsk1"
+  },
+  "fa.quote.priceask2": {
+    "title": "FA.Quote.PriceAsk2"
+  },
+  "fa.quote.priceask3": {
+    "title": "FA.Quote.PriceAsk3"
+  },
+  "fa.quote.priceaverage": {
+    "title": "FA.Quote.PriceAverage"
+  },
+  "fa.quote.pricebasic": {
+    "title": "FA.Quote.PriceBasic"
+  },
+  "fa.quote.pricebid1": {
+    "title": "FA.Quote.PriceBid1"
+  },
+  "fa.quote.pricebid2": {
+    "title": "FA.Quote.PriceBid2"
+  },
+  "fa.quote.pricebid3": {
+    "title": "FA.Quote.PriceBid3"
+  },
+  "fa.quote.priceceiling": {
+    "title": "FA.Quote.PriceCeiling"
+  },
+  "fa.quote.pricechange": {
+    "title": "FA.Quote.PriceChange"
+  },
+  "fa.quote.priceclose": {
+    "title": "FA.Quote.PriceClose"
+  },
+  "fa.quote.pricefloor": {
+    "title": "FA.Quote.PriceFloor"
+  },
+  "fa.quote.pricehigh": {
+    "title": "FA.Quote.PriceHigh"
+  },
+  "fa.quote.pricelast": {
+    "title": "FA.Quote.PriceLast"
+  },
+  "fa.quote.pricelow": {
+    "title": "FA.Quote.PriceLow"
+  },
+  "fa.quote.priceopen": {
+    "title": "FA.Quote.PriceOpen"
+  },
+  "untitled-3": {
+    "title": "FA.Quote.PricePercentChange"
+  },
+  "fa.quote.quantityask1": {
+    "title": "FA.Quote.QuantityAsk1"
+  },
+  "untitled-1": {
+    "title": "FA.Quote.QuantityAsk2"
+  },
+  "untitled": {
+    "title": "FA.Quote.QuantityAsk3"
+  },
+  "fa.quote.quantitybid1": {
+    "title": "FA.Quote.QuantityBid1"
+  },
+  "fa.quote.quantitybid2": {
+    "title": "FA.Quote.QuantityBid2"
+  },
+  "fa.quote.quantitybid3": {
+    "title": "FA.Quote.QuantityBid3"
+  },
+  "fa.quote.sellcount": {
+    "title": "FA.Quote.SellCount"
+  },
+  "fa.quote.sellforeignquantity": {
+    "title": "FA.Quote.SellForeignQuantity"
+  },
+  "fa.quote.sellforeignvalue": {
+    "title": "FA.Quote.SellForeignValue"
+  },
+  "fa.quote.sellquantity": {
+    "title": "FA.Quote.SellQuantity"
+  },
+  "fa.quote.time": {
+    "title": "FA.Quote.Time"
+  },
+  "fa.quote.totalactivebuyvolume": {
+    "title": "FA.Quote.TotalActiveBuyVolume"
+  },
+  "fa.quote.totalactivesellvolume": {
+    "title": "FA.Quote.TotalActiveSellVolume"
+  },
+  "fa.quote.totaltrade": {
+    "title": "FA.Quote.TotalTrade"
+  },
+  "fa.quote.totalvalue": {
+    "title": "FA.Quote.TotalValue"
+  },
+  "fa.quote.totalvolume": {
+    "title": "FA.Quote.TotalVolume"
+  },
+  "fa.quote.volume": {
+    "title": "FA.Quote.Volume"
+  }
+}
