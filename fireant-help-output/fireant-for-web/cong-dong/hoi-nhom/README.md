@@ -22,7 +22,7 @@ Các nhóm được xếp vào các danh sách khác nhau tùy theo mức độ 
 * **Khuyến nghị:** Các nhóm được khuyến nghị, đây là các nhóm được ưu tiên hiển thị, ví dụ các nhóm tích xanh (có đóng góp lớn cho cộng đồng), các nhóm trả phí, ...
 * **Phổ biến:** Các nhóm có nhiều thành viên tham gia, có nhiều bài viết
 
-![Danh sách các nhóm](https://help.fireant.vn/files/1bJaAMJEnwaiK9tBrfhN)
+![Danh sách các nhóm](images/image-1.png)
 
 ## Phân loại nhóm&#x20;
 

@@ -7,7 +7,7 @@ source: "https://help.fireant.vn/fireant-for-web/cong-dong"
 
 Cộng đồng là nơi người dùng chia sẻ thông tin và trao đổi kiến thức
 
-![](https://help.fireant.vn/files/2FXCtdJTpK1YPDlnMuAQ)
+![](images/image-1.png)
 
 Trong chức năng cộng đồng bạn có các lựa chọn sau
 

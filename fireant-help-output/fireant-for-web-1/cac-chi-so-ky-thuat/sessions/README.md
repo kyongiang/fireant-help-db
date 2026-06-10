@@ -5,7 +5,7 @@ source: "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/sessions"
 
 # Sessions
 
-![](https://help.fireant.vn/files/YbSv0j56TLqkOrlOB7iO)
+![](images/image-1.png)
 
 **Sessions** thực chất không phải chỉ báo kỹ thuật mà là công cụ thể hiện các vị trí ngắt phiên. Công cụ này chỉ áp dụng với các khung giờ trong phiên (các khung Intraday).
 

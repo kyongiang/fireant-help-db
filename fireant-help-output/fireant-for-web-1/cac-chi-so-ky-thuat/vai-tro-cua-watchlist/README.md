@@ -11,7 +11,7 @@ source: "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/vai-tro-c
 
 Để thêm các chỉ số của FireAnt vào biểu đồ, bạn thực hiện các bước sau:&#x20;
 
-1. Chọn nút   <img src="https://help.fireant.vn/files/-Mehcpy5kgb6CbMBW9BE" alt="" data-size="original">&#x20;
+1. Chọn nút   <img src="images/image-4.png" alt="" data-size="original">&#x20;
 2. Ở danh sách các chỉ báo gõ từ khóa tương ứng với tên chỉ báo bạn muốn thêm vào biểu đồ, ví dụ MFI, RSI, ...&#x20;
 3. Trong các chỉ báo tìm được, chọn chỉ báo có chữ **FireAnt** ở đầu.
 

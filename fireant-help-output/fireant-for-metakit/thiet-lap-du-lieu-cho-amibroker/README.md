@@ -25,7 +25,7 @@ Với ứng dụng **FireAnt for Amibroker**, việc kết nối có thể thự
 Lưu ý: Các scripts cho Amibroker chỉ hoạt động đầy đủ với gói hội viên chuyên nghiệp trở lên.&#x20;
 {% endhint %}
 
-<div data-full-width="false"><figure><img src="https://help.fireant.vn/files/Y8e3CpG0F5OC6fPsVfma" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="images/image-2.png" alt=""><figcaption></figcaption></figure></div>
 
 <p align="center"><sup><em>Thiết lập thư mục lưu trữ dữ liệu</em></sup></p>
 

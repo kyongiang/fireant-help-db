@@ -11,7 +11,7 @@ source: "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/tasuki-ga
 
 Mô hình gồm ba nến. Nến thứ nhất của mô hình là một nến dài cùng chiều với xu hướng trước đó. Nên thứ hai cũng có cùng màu với nến thứ nhất và tạo GAP với nến thứ nhất. Nến thứ ba cũng là nến xác định mô hình, có màu ngược với hai nến trước mở cửa ở giá trị nằm trong thân nến thứ hai và đóng cửa cao hơn đóng cửa của nến thứ nhất. Có hai mẫu **Tasuki GAP** là **Downside Tasuki GAP** (*shita banare tasuki*) và **Upside Tasuki GAP (***uwa banare tasuki*).
 
-| <img src="https://help.fireant.vn/files/-MeiqihtmNAA_RHengFD" alt="" data-size="original"><img src="images/image-4.png" alt="" data-size="original"> | <img src="https://help.fireant.vn/files/-MeiqnKcfOAY08UM9-7J" alt="" data-size="original"><img src="images/image-6.png" alt="" data-size="original"> |
+| <img src="images/image-7.png" alt="" data-size="original"><img src="images/image-4.png" alt="" data-size="original"> | <img src="images/image-8.png" alt="" data-size="original"><img src="images/image-6.png" alt="" data-size="original"> |
 | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | **Upside Tasuki GAP**                                                                                                                  | **Downside Tasuki GAP**                                                                                                                |
 

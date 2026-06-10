@@ -15,14 +15,14 @@ Giá trị giao dịch ròng của khối tự doanh có thể hiện thị theo
 
 Các tham số mà chúng tôi sử dụng mặc định (người dùng có thể thay đổi):
 
-![](https://help.fireant.vn/files/pBdxjSbnA5eqW6krhNqA)
+![](images/image-1.png)
 
 * **Thống kê theo**: Mặc định giá trị giao dịch ròng của khối tự doanh được dùng làm đại lượng thống kê. Giá trị giao dịch mua ròng được hiện thị là số dương (màu xanh) và giá trị giao dịch bán ròng được hiển thị là số âm. Bạn có thể chọn thống kê theo giá trị giao dịch khớp lệnh ròng hoặc giá trị giáo dịch thỏa thuận ròng.
 * **Cách hiển thị:** Bạn có thể chọn hiển thị theo giá trị giao dịch ròng tuyệt đối, hoặc theo tỷ lệ phần tẳm so với thị giá vốn của mã tương ứng.
 
 Bên cạnh các tham số, người dùng cũng có thể thay đổi màu sắc các cột hiển thị giao dịch ròng của khối tự doanh.
 
-![](https://help.fireant.vn/files/cAhW3GK034LUNrSmzyfN)
+![](images/image-2.png)
 
 {% hint style="info" %}
 **Gợi ý sử dụng:**&#x20;

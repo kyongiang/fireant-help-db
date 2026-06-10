@@ -21,7 +21,7 @@ source: "https://help.fireant.vn/thu-vien-chi-bao/true-strength-index"
      * Làm mượt lần hai **(APCDS)**: Áp dụng EMA 13 chu kỳ cho **APCS**.
      * Cuối cùng, tính giá trị TSI bằng công thức:
 
-       <figure><img src="https://help.fireant.vn/files/b0MPjxmE1bQf0RPo6jyW" alt=""><figcaption></figcaption></figure>
+       <figure><img src="images/image-1.png" alt=""><figcaption></figcaption></figure>
 3. **Phân tích**:
    * TSI dao động giữa vùng dương (bullish) và vùng âm (bearish).
    * Sự **phân kỳ** giữa TSI và giá có thể báo hiệu xu hướng giá đang yếu đi và có thể đảo chiều.

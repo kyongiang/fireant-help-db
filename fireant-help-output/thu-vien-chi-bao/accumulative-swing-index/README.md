@@ -7,7 +7,7 @@ source: "https://help.fireant.vn/thu-vien-chi-bao/accumulative-swing-index"
 
 **Chỉ số dao động tích lũy** (Accumulative Swing Index, viết tắt là ASI) là một [chỉ báo kỹ thuật](https://help.fireant.vn/thuat-ngu-chung-khoan/) trong [phân tích kỹ thuật](https://help.fireant.vn/thuat-ngu-chung-khoan/), được sử dụng để xác định xu hướng giá của một tài sản tài chính. Nó được phát triển bởi J. Welles Wilder và được giới thiệu trong cuốn sách của ông "New Concepts in Technical Trading Systems".
 
-<figure><img src="https://help.fireant.vn/files/m8E5Nqgoo2RXjQhRQAmi" alt=""><figcaption><p>Chỉ số dao động tích lũy (ASI)</p></figcaption></figure>
+<figure><img src="images/image-1.png" alt=""><figcaption><p>Chỉ số dao động tích lũy (ASI)</p></figcaption></figure>
 
 ASI tính toán dựa trên giá mở cửa, giá đóng cửa, cao nhất và thấp nhất của mỗi ngày giao dịch. Nó sử dụng các thông tin này để tạo ra một chỉ báo với giá trị tích lũy, giúp đánh giá xu hướng và mức độ tăng trưởng của tài sản tài chính.
 
@@ -88,13 +88,13 @@ Sử dụng ASI trong một chiến lược giao dịch có thể giúp cải th
 
 Để xác định xu hướng hãy bắt đầu bằng cách quan sát đường ASI. ASI tăng xác nhận một xu hướng tăng, và chỉ ra các cơ hội mua tiềm năng. Ngược lại, ASI giảm cho phép nhận diện một xu hướng giảm, cơ hội tiềm năng để bán. Quy tắc cần nhớ là bạn cần xác nhận xu hướng với các chu kỳ khác nhau để đảm bảo có được sự đồng thuận.
 
-<figure><img src="https://help.fireant.vn/files/UFKHxFRdkzcxvAya3Lsy" alt=""><figcaption><p>Nhận diện xu hướng với ASI</p></figcaption></figure>
+<figure><img src="images/image-2.png" alt=""><figcaption><p>Nhận diện xu hướng với ASI</p></figcaption></figure>
 
 #### Phân tích sự phân kỳ với giá
 
 Phân kỳ xảy ra khi biểu đồ giá và biểu đồ ASI di chuyển theo các hướng ngược nhau. Trong xu hướng tăng nếu giá cổ phiếu đang tạo ra các đỉnh giá cao dần, nhưng ASI không tạo ra các đỉnh cao dần, điều này chỉ ra xu hướng tăng nhiều khả năng là yếu đi, và đó là dấu hiệu đảo chiều giảm giá tiềm năng. Ngược lại, nếu giá đang trong xu hướng giảm và liên tục tảo đáy giá thấp dần, nhưng ASI lại không tạo ra các đáy  thấp dần, thì đây cũng là dắu hiệu nhận biết sắp có đảo chiều tăng giá.
 
-<figure><img src="https://help.fireant.vn/files/N9UTmad3RauCBk1ODJom" alt=""><figcaption><p>Phân kỳ giữa ASI và giá báo hiệu sắp có đảo chiều xu hướng</p></figcaption></figure>
+<figure><img src="images/image-3.png" alt=""><figcaption><p>Phân kỳ giữa ASI và giá báo hiệu sắp có đảo chiều xu hướng</p></figcaption></figure>
 
 #### Xác nhận đột phá&#x20;
 

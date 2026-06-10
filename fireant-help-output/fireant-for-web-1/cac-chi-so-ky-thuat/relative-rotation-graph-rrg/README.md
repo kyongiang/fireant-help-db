@@ -5,7 +5,7 @@ source: "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/relative-
 
 # Relative Rotation Graph (RRG)
 
-![](https://help.fireant.vn/files/BbFxNEQUio5YVjyuPGU9)
+![](images/image-1.png)
 
 Relative Rotation Graphs (Đồ thị chuyển vị tương đối) là một công cụ trực quan hóa để phân tích Sức mạnh tương đối (Relative Strength - RS). Nhà đầu tư có thể sử dụng RRG để phân tích xu hướng sức mạnh tương đối của một tài sản so với một tài sản tham chiếu nào đó.
 
@@ -17,7 +17,7 @@ RRG được phát triển trong khoảng thời gian từ năm 2004-2005 bởi 
 
 ## **Cấu trúc RRG**
 
-![](https://help.fireant.vn/files/J4BZi2qpsGo0dF0c46qk)
+![](images/image-2.png)
 
 Cấu trúc đồ thị RRG gồm 4 góc phần tư xung quanh gốc tọa độ RS=100, RM=100. Trong đó
 

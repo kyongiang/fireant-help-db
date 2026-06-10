@@ -7,7 +7,7 @@
 
 Đây là **mirror offline** toàn bộ trang trợ giúp FireAnt. Mỗi trang web tương ứng một thư mục chứa `README.md` (Markdown) và có thể có thư mục `images/` chứa ảnh minh họa đã tải về.
 
-**Thống kê:** 428 trang · 251 ảnh · 9 nhánh gốc
+**Thống kê:** 428 trang · 293 ảnh · 9 nhánh gốc
 
 ## Quy ước file
 

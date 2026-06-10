@@ -5,7 +5,7 @@ source: "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/big-trade
 
 # Big Trade
 
-![](https://help.fireant.vn/files/DzSota6imVtLjpS67onU)
+![](images/image-1.png)
 
 **Chỉ báo Big Trade thống kê tổng các giao dịch chủ động được coi là giao dịch lớn (có giá trị giao dịch trên 500 triệu)**.&#x20;
 
@@ -21,14 +21,14 @@ Các giao dịch mua và bán được thể hiện bởi các cột màu xanh (
 
 Các tham số mà chúng tôi sử dụng mặc định (người dùng có thể thay đổi):
 
-![](https://help.fireant.vn/files/zu9v08JtUMGAzJQ5SVuH)
+![](images/image-2.png)
 
 * **Thống kê theo**: Mặc định giao dịch lô lớn được thống kê theo tổng khối lượng các giao dịch có giá trị trên 500 triệu đồng. Bạn có thể chọn thống kê theo tổng giá trị các giao dịch có giá trị trên 500 triệu đồng.
 * **Giá trị hiển thị**: Mặc định là hiển thị tổng khối lượng/giá trị các giao dịch lớn (thân nến) và tổng khối lượng/giá trị giao dịch chủ động (thân nến và chân nến). Bạn có thể chọn hiển thị theo tỷ lệ phần trăm của tổng khối lượng giao dịch lớn so với tổng khối lượng giao dịch chủ động&#x20;
 
 Bên cạnh các tham số, người dùng cũng có thể thay đổi màu sắc các cột hiển thị Khối lượng/giá trị tổng mua/bán chủ động và khối lượng/giá trị mua/bán chủ động lô lớn.
 
-![](https://help.fireant.vn/files/oP5VPykUdvsOyKewQPWi)
+![](images/image-3.png)
 
 {% hint style="info" %}
 **Gợi ý sử dụng:**&#x20;

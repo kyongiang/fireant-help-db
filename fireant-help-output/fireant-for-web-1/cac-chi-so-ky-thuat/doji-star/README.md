@@ -13,7 +13,7 @@ source: "https://help.fireant.vn/fireant-for-web-1/cac-chi-so-ky-thuat/doji-star
 
 Mô hình gồm hai nến này có giá trị khi xuất hiện trong một xu hướng, trong đó nến đầu là nến có thân dài cùng chiều xu hướng, tiếp đến là một nến doji có thân nến nằm bên trên (nếu xu hướng là tăng) hoặc bên dưới (nếu xu hướng là giảm) thân của nến thứ nhất. Nến thứ hai không được là nến doji bốn giá bằng nhau (O=H=L=C). Độ dài của bóng nến là bao nhiêu không quan trọng.
 
-| <img src="https://help.fireant.vn/files/-MemVE_715GLqYd5NkU_" alt="" data-size="original"> <img src="images/image-4.png" alt="" data-size="original"> | <img src="images/image-5.png" alt="" data-size="original"> |
+| <img src="images/image-6.png" alt="" data-size="original"> <img src="images/image-4.png" alt="" data-size="original"> | <img src="images/image-5.png" alt="" data-size="original"> |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | <img src="images/image-4.png" alt="" data-size="line"> **Bearish Doji Star**                                                   | **Bullish Doji Star**                                               |
 
